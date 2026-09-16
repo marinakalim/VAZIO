@@ -1,0 +1,4097 @@
+[
+  {
+    "nome": "Sindicato Dos Bancarios E Financ De Sp Osasco E Regiao",
+    "cnpj_norm": "61651675000195",
+    "nome_norm": "SINDICATO DOS BANCARIOS E FINANC DE SP OSASCO E REGIAO",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Uniao Brasileiro Israelita Do Bem Estar Social Unibes",
+    "cnpj_norm": "60978723000191",
+    "nome_norm": "UNIAO BRASILEIRO ISRAELITA DO BEM ESTAR SOCIAL UNIBES",
+    "consultor": null,
+    "situacao": "fup"
+  },
+  {
+    "nome": "Clube De Campo De Sao Paulo",
+    "cnpj_norm": "61655742000140",
+    "nome_norm": "CLUBE DE CAMPO DE SAO PAULO",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Associacao Beneficente Professores Publicos Ativos E Inativos",
+    "cnpj_norm": "31240963000196",
+    "nome_norm": "ASSOCIACAO BENEFICENTE PROFESSORES PUBLICOS ATIVOS E INATIVOS",
+    "consultor": null,
+    "situacao": "fup"
+  },
+  {
+    "nome": "Azimut do Brasil Fabricação de Iates Ltda",
+    "cnpj_norm": "11568948000164",
+    "nome_norm": "AZIMUT DO BRASIL FABRICACAO DE IATES LTDA",
+    "consultor": "Thamires Rosa",
+    "situacao": "in_progress"
+  },
+  {
+    "nome": "UNIÃO PET PARTICIPAÇÕES SA",
+    "cnpj_norm": "53153938000701",
+    "nome_norm": "UNIAO PET PARTICIPACOES SA",
+    "consultor": "Pedro Henrique Jesus",
+    "situacao": "new"
+  },
+  {
+    "nome": "ASSOCIAÇÃO DOS TRIPULANTES LATAM",
+    "cnpj_norm": "50060078000170",
+    "nome_norm": "ASSOCIACAO DOS TRIPULANTES LATAM",
+    "consultor": "Pedro Henrique Jesus",
+    "situacao": "new"
+  },
+  {
+    "nome": "Associacao Dos Funcionarios Publicos Do Municipio De Jandira",
+    "cnpj_norm": "59053728000124",
+    "nome_norm": "ASSOCIACAO DOS FUNCIONARIOS PUBLICOS DO MUNICIPIO DE JANDIRA",
+    "consultor": "Adriano Oliveira",
+    "situacao": "new"
+  },
+  {
+    "nome": "Sao Paulo Futebol Clube",
+    "cnpj_norm": "06992144000158",
+    "nome_norm": "SAO PAULO FUTEBOL CLUBE",
+    "consultor": "Adriano Oliveira",
+    "situacao": "new"
+  },
+  {
+    "nome": "Associacao",
+    "cnpj_norm": "03935647000101",
+    "nome_norm": "ASSOCIACAO",
+    "consultor": "Suelen Pereira",
+    "situacao": "new"
+  },
+  {
+    "nome": "Sindicato Servidores Publ Munic Autarquia Camara Munic Santo Andre",
+    "cnpj_norm": "58156456000125",
+    "nome_norm": "SINDICATO SERVIDORES PUBL MUNIC AUTARQUIA CAMARA MUNIC SANTO ANDRE",
+    "consultor": "Suelen Pereira",
+    "situacao": "new"
+  },
+  {
+    "nome": "Afupi Associacao Dos Funcionarios Publicos De Itapevi",
+    "cnpj_norm": "65705949000132",
+    "nome_norm": "AFUPI ASSOCIACAO DOS FUNCIONARIOS PUBLICOS DE ITAPEVI",
+    "consultor": "Adriano Oliveira",
+    "situacao": "new"
+  },
+  {
+    "nome": "Sindicato Dos Metalurgicos De Osasco E Regiao",
+    "cnpj_norm": "62248620000100",
+    "nome_norm": "SINDICATO DOS METALURGICOS DE OSASCO E REGIAO",
+    "consultor": "Fabiana Diniz",
+    "situacao": "new"
+  },
+  {
+    "nome": "Sindicato Servidores Publicos Mun Aracoiaba Serra",
+    "cnpj_norm": "67365106000160",
+    "nome_norm": "SINDICATO SERVIDORES PUBLICOS MUN ARACOIABA SERRA",
+    "consultor": "Adriano Oliveira",
+    "situacao": "new"
+  },
+  {
+    "nome": "Esporte Clube Pinheiros",
+    "cnpj_norm": "88067905000120",
+    "nome_norm": "ESPORTE CLUBE PINHEIROS",
+    "consultor": "Adriano Oliveira",
+    "situacao": "new"
+  },
+  {
+    "nome": "Sintrasp Sindicato Dos Trabalhadores Em Servicos Publicos Dos Municipios De Osasco E Cotia",
+    "cnpj_norm": "59045054000116",
+    "nome_norm": "SINTRASP SINDICATO DOS TRABALHADORES EM SERVICOS PUBLICOS DOS MUNICIPIOS DE OSASCO E COTIA",
+    "consultor": "Fabiana Diniz",
+    "situacao": "new"
+  },
+  {
+    "nome": "Ipam Instituto Paulista De Magistrados",
+    "cnpj_norm": "03638478000130",
+    "nome_norm": "IPAM INSTITUTO PAULISTA DE MAGISTRADOS",
+    "consultor": "Adriano Oliveira",
+    "situacao": "new"
+  },
+  {
+    "nome": "Pires E Goncalves Advogados Associados",
+    "cnpj_norm": "02023230000100",
+    "nome_norm": "PIRES E GONCALVES ADVOGADOS ASSOCIADOS",
+    "consultor": "Suelen Pereira",
+    "situacao": "new"
+  },
+  {
+    "nome": "Sindicato Funcionarios Publicos Diadema",
+    "cnpj_norm": "55048201000150",
+    "nome_norm": "SINDICATO FUNCIONARIOS PUBLICOS DIADEMA",
+    "consultor": "Adriano Oliveira",
+    "situacao": "new"
+  },
+  {
+    "nome": "Sindicato Dos Trabalhadores Em Transp Rod Sorocaba Re",
+    "cnpj_norm": "71866529000130",
+    "nome_norm": "SINDICATO DOS TRABALHADORES EM TRANSP ROD SOROCABA RE",
+    "consultor": "Fabiana Diniz",
+    "situacao": "new"
+  },
+  {
+    "nome": "Sindicato Dos Servidores Municipais De Barueri",
+    "cnpj_norm": "03302508000132",
+    "nome_norm": "SINDICATO DOS SERVIDORES MUNICIPAIS DE BARUERI",
+    "consultor": "Suelen Pereira",
+    "situacao": "new"
+  },
+  {
+    "nome": "Stspmb Sindicato Dos Servidores De Boituva",
+    "cnpj_norm": "09026114000185",
+    "nome_norm": "STSPMB SINDICATO DOS SERVIDORES DE BOITUVA",
+    "consultor": "Adriano Oliveira",
+    "situacao": "new"
+  },
+  {
+    "nome": "Federacao Ent Sind Trabs Inds De Pap Cel Cor Art Papel Mercosul",
+    "cnpj_norm": "62647813000125",
+    "nome_norm": "FEDERACAO ENT SIND TRABS INDS DE PAP CEL COR ART PAPEL MERCOSUL",
+    "consultor": "Fabiana Diniz",
+    "situacao": "new"
+  },
+  {
+    "nome": "Athié Wohnrath Associados Projetos Construção e Gerenciamento Ltda.",
+    "cnpj_norm": "61379863000106",
+    "nome_norm": "ATHIE WOHNRATH ASSOCIADOS PROJETOS CONSTRUCAO E GERENCIAMENTO LTDA",
+    "consultor": "Pedro Henrique Jesus",
+    "situacao": "in_progress"
+  },
+  {
+    "nome": "Clube Hípico Santo Amaro",
+    "cnpj_norm": "49086291000171",
+    "nome_norm": "CLUBE HIPICO SANTO AMARO",
+    "consultor": "Pedro Henrique Jesus",
+    "situacao": "new"
+  },
+  {
+    "nome": "Ibol Instituto Brasileiro De Oftalmologia Botafogo",
+    "cnpj_norm": "34106518000126",
+    "nome_norm": "IBOL INSTITUTO BRASILEIRO DE OFTALMOLOGIA BOTAFOGO",
+    "consultor": "Erika Jesus",
+    "situacao": "fup"
+  },
+  {
+    "nome": "Instituto Inovar",
+    "cnpj_norm": "24993878000133",
+    "nome_norm": "INSTITUTO INOVAR",
+    "consultor": "Fernanda Brum",
+    "situacao": "fup"
+  },
+  {
+    "nome": "Associacao Israelita De Ensino E Cultura",
+    "cnpj_norm": "33456476000190",
+    "nome_norm": "ASSOCIACAO ISRAELITA DE ENSINO E CULTURA",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Instituto Santo Antonio",
+    "cnpj_norm": "30828818000168",
+    "nome_norm": "INSTITUTO SANTO ANTONIO",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Instituto De Otorrino",
+    "cnpj_norm": "17250853000184",
+    "nome_norm": "INSTITUTO DE OTORRINO",
+    "consultor": "Erika Jesus",
+    "situacao": "in_progress"
+  },
+  {
+    "nome": "Associacao Cruz Verde",
+    "cnpj_norm": "60762846000190",
+    "nome_norm": "ASSOCIACAO CRUZ VERDE",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Instituto Rogacionista Santo Anibal Cedesp E Cca",
+    "cnpj_norm": "62715529000149",
+    "nome_norm": "INSTITUTO ROGACIONISTA SANTO ANIBAL CEDESP E CCA",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Kumon America Do Sul Instituto De Educacao Ltda",
+    "cnpj_norm": "43950252000194",
+    "nome_norm": "KUMON AMERICA DO SUL INSTITUTO DE EDUCACAO LTDA",
+    "consultor": "Erika Jesus",
+    "situacao": "fup"
+  },
+  {
+    "nome": "Associacao Amigos Metroviarios Dos Excepcionais Ame",
+    "cnpj_norm": "64917818000156",
+    "nome_norm": "ASSOCIACAO AMIGOS METROVIARIOS DOS EXCEPCIONAIS AME",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Instituto Claret Solidariedade E Desenvolvimento Humano",
+    "cnpj_norm": "03601723000134",
+    "nome_norm": "INSTITUTO CLARET SOLIDARIEDADE E DESENVOLVIMENTO HUMANO",
+    "consultor": "Erika Jesus",
+    "situacao": "fup"
+  },
+  {
+    "nome": "Eugenio Vago Advogados Associados",
+    "cnpj_norm": "62568720000105",
+    "nome_norm": "EUGENIO VAGO ADVOGADOS ASSOCIADOS",
+    "consultor": "Adriano Oliveira",
+    "situacao": "in_progress"
+  },
+  {
+    "nome": "Lilla E Vergniassi Advogadas Associadas",
+    "cnpj_norm": "42507159000147",
+    "nome_norm": "LILLA E VERGNIASSI ADVOGADAS ASSOCIADAS",
+    "consultor": "Adriano Oliveira",
+    "situacao": "in_progress"
+  },
+  {
+    "nome": "Servidone Advogados Associados",
+    "cnpj_norm": "22187449000143",
+    "nome_norm": "SERVIDONE ADVOGADOS ASSOCIADOS",
+    "consultor": "Adriano Oliveira",
+    "situacao": "in_progress"
+  },
+  {
+    "nome": "Laguna E Fazio Advogados Associados",
+    "cnpj_norm": "07714292000173",
+    "nome_norm": "LAGUNA E FAZIO ADVOGADOS ASSOCIADOS",
+    "consultor": "Adriano Oliveira",
+    "situacao": "in_progress"
+  },
+  {
+    "nome": "Salo Kibrit Advogados Associados",
+    "cnpj_norm": "02730605000163",
+    "nome_norm": "SALO KIBRIT ADVOGADOS ASSOCIADOS",
+    "consultor": "Adriano Oliveira",
+    "situacao": "in_progress"
+  },
+  {
+    "nome": "Patricio De Azambuja Advogados Associados",
+    "cnpj_norm": "02513282000156",
+    "nome_norm": "PATRICIO DE AZAMBUJA ADVOGADOS ASSOCIADOS",
+    "consultor": "Adriano Oliveira",
+    "situacao": "in_progress"
+  },
+  {
+    "nome": "Latorreteramoto Advogados Associados",
+    "cnpj_norm": "00297112000156",
+    "nome_norm": "LATORRETERAMOTO ADVOGADOS ASSOCIADOS",
+    "consultor": "Adriano Oliveira",
+    "situacao": "in_progress"
+  },
+  {
+    "nome": "Iase Instituto De Assistencia Social E Saude De Eldorado",
+    "cnpj_norm": "",
+    "nome_norm": "IASE INSTITUTO DE ASSISTENCIA SOCIAL E SAUDE DE ELDORADO",
+    "consultor": "Adriano Oliveira",
+    "situacao": "in_progress"
+  },
+  {
+    "nome": "Marcam Contadores Associados Ltda",
+    "cnpj_norm": "",
+    "nome_norm": "MARCAM CONTADORES ASSOCIADOS LTDA",
+    "consultor": "Adriano Oliveira",
+    "situacao": "in_progress"
+  },
+  {
+    "nome": "IBGC - Instituto Brasileiro de Governança Corporativa",
+    "cnpj_norm": "",
+    "nome_norm": "IBGC INSTITUTO BRASILEIRO DE GOVERNANCA CORPORATIVA",
+    "consultor": "Adriano Oliveira",
+    "situacao": "in_progress"
+  },
+  {
+    "nome": "ASSOCIACAO FUNDO DE INCENTIVO A PESQUISA",
+    "cnpj_norm": "47673793000173",
+    "nome_norm": "ASSOCIACAO FUNDO DE INCENTIVO A PESQUISA",
+    "consultor": "Thamires Rosa",
+    "situacao": "in_progress"
+  },
+  {
+    "nome": "Associacao Escola Suico-Brasileira",
+    "cnpj_norm": "62014352000153",
+    "nome_norm": "ASSOCIACAO ESCOLA SUICO BRASILEIRA",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Associação Brasileira De Educação E Cultura Abec",
+    "cnpj_norm": "60982352000111",
+    "nome_norm": "ASSOCIACAO BRASILEIRA DE EDUCACAO E CULTURA ABEC",
+    "consultor": "Valeria Martinez",
+    "situacao": "in_progress"
+  },
+  {
+    "nome": "Associacao De Beneficencia E Filantropia Sao Cristovao",
+    "cnpj_norm": "60975174000100",
+    "nome_norm": "ASSOCIACAO DE BENEFICENCIA E FILANTROPIA SAO CRISTOVAO",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Ser Especial Associacao Assistencial De Integracao Ao Trabalho",
+    "cnpj_norm": "05446196000166",
+    "nome_norm": "SER ESPECIAL ASSOCIACAO ASSISTENCIAL DE INTEGRACAO AO TRABALHO",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Associacao Prudentina De Educacao E Cultura Apec",
+    "cnpj_norm": "44860740000173",
+    "nome_norm": "ASSOCIACAO PRUDENTINA DE EDUCACAO E CULTURA APEC",
+    "consultor": "Gisele Costa",
+    "situacao": "new"
+  },
+  {
+    "nome": "Instituto Presbiteriano Mackenzie",
+    "cnpj_norm": "60967551000150",
+    "nome_norm": "INSTITUTO PRESBITERIANO MACKENZIE",
+    "consultor": "Gisele Costa",
+    "situacao": "new"
+  },
+  {
+    "nome": "Associacao De Luta E Promocao Social Jardim Robru E Adjacencias",
+    "cnpj_norm": "04676010000100",
+    "nome_norm": "ASSOCIACAO DE LUTA E PROMOCAO SOCIAL JARDIM ROBRU E ADJACENCIAS",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Uniao Social Camiliana",
+    "cnpj_norm": "58250689000192",
+    "nome_norm": "UNIAO SOCIAL CAMILIANA",
+    "consultor": "Gisele Costa",
+    "situacao": "new"
+  },
+  {
+    "nome": "Instituto De Acao Social Forca E Vida",
+    "cnpj_norm": "02080755000179",
+    "nome_norm": "INSTITUTO DE ACAO SOCIAL FORCA E VIDA",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Associacao Saude Da Familia",
+    "cnpj_norm": "68311216000101",
+    "nome_norm": "ASSOCIACAO SAUDE DA FAMILIA",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Apas Associacao Paulista De Supermercados",
+    "cnpj_norm": "47409669000103",
+    "nome_norm": "APAS ASSOCIACAO PAULISTA DE SUPERMERCADOS",
+    "consultor": "Valeria Martinez",
+    "situacao": "new"
+  },
+  {
+    "nome": "Iate Clube Do Rio De Janeiro",
+    "cnpj_norm": "33646654000146",
+    "nome_norm": "IATE CLUBE DO RIO DE JANEIRO",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "lcr contadores associados Ltda ",
+    "cnpj_norm": "03814203000100",
+    "nome_norm": "LCR CONTADORES ASSOCIADOS LTDA",
+    "consultor": "Maria Marcela Oliveira",
+    "situacao": "new"
+  },
+  {
+    "nome": "Associação comercial ",
+    "cnpj_norm": "60524550000131",
+    "nome_norm": "ASSOCIACAO COMERCIAL",
+    "consultor": "Maria Marcela Oliveira",
+    "situacao": "new"
+  },
+  {
+    "nome": "Clube Hipico Quinta Da Baroneza",
+    "cnpj_norm": "03885501000190",
+    "nome_norm": "CLUBE HIPICO QUINTA DA BARONEZA",
+    "consultor": null,
+    "situacao": "fup"
+  },
+  {
+    "nome": "Associacao Cultural Nossa Senhora De Fatima",
+    "cnpj_norm": "02090452000137",
+    "nome_norm": "ASSOCIACAO CULTURAL NOSSA SENHORA DE FATIMA",
+    "consultor": null,
+    "situacao": "fup"
+  },
+  {
+    "nome": "Associacao Congregacao de Santa Catarina",
+    "cnpj_norm": "60922168000186",
+    "nome_norm": "ASSOCIACAO CONGREGACAO DE SANTA CATARINA",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Ricoy Associação Central Supermercados",
+    "cnpj_norm": "07752023000100",
+    "nome_norm": "RICOY ASSOCIACAO CENTRAL SUPERMERCADOS",
+    "consultor": "Fabiana Diniz",
+    "situacao": "in_progress"
+  },
+  {
+    "nome": "Associacao Fazenda Tambore Residencial",
+    "cnpj_norm": "56348691000173",
+    "nome_norm": "ASSOCIACAO FAZENDA TAMBORE RESIDENCIAL",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Hospital Biocor Instituto",
+    "cnpj_norm": "20294088000109",
+    "nome_norm": "HOSPITAL BIOCOR INSTITUTO",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Federação das Indústrias do Estado do Rio de Janeiro",
+    "cnpj_norm": "42422212002231",
+    "nome_norm": "FEDERACAO DAS INDUSTRIAS DO ESTADO DO RIO DE JANEIRO",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Magro Adv Associados ",
+    "cnpj_norm": "03968248000139",
+    "nome_norm": "MAGRO ADV ASSOCIADOS",
+    "consultor": "Aline Malta",
+    "situacao": "new"
+  },
+  {
+    "nome": "Clube Atletico Monte Libano",
+    "cnpj_norm": "60782778000121",
+    "nome_norm": "CLUBE ATLETICO MONTE LIBANO",
+    "consultor": "Aline Malta",
+    "situacao": "new"
+  },
+  {
+    "nome": "Associação União Beneficente Das Irmãs De São Vicnete De Paulo Gysegem",
+    "cnpj_norm": "61000683000171",
+    "nome_norm": "ASSOCIACAO UNIAO BENEFICENTE DAS IRMAS DE SAO VICNETE DE PAULO GYSEGEM",
+    "consultor": "Aline Malta",
+    "situacao": "new"
+  },
+  {
+    "nome": "Associacao Educacional Espirita Amelia Rodrigues",
+    "cnpj_norm": "11070004000162",
+    "nome_norm": "ASSOCIACAO EDUCACIONAL ESPIRITA AMELIA RODRIGUES",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Clube Dos Subtenentes E Sargentos Do Ii Exercito",
+    "cnpj_norm": "60419959000198",
+    "nome_norm": "CLUBE DOS SUBTENENTES E SARGENTOS DO II EXERCITO",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Instituto de Educação Projeto Vida",
+    "cnpj_norm": "12508534000102",
+    "nome_norm": "INSTITUTO DE EDUCACAO PROJETO VIDA",
+    "consultor": "Renata Matavelli",
+    "situacao": "in_progress"
+  },
+  {
+    "nome": "Albieri e Associados Tecnologia LTDA",
+    "cnpj_norm": "50424893000170",
+    "nome_norm": "ALBIERI E ASSOCIADOS TECNOLOGIA LTDA",
+    "consultor": "Leandro Tiago",
+    "situacao": "in_progress"
+  },
+  {
+    "nome": "Associação Comercial e Empresarial de Casa",
+    "cnpj_norm": "49432768000123",
+    "nome_norm": "ASSOCIACAO COMERCIAL E EMPRESARIAL DE CASA",
+    "consultor": "Alessandra Baracho",
+    "situacao": "in_progress"
+  },
+  {
+    "nome": "Instituto Abradecont",
+    "cnpj_norm": "04213923000182",
+    "nome_norm": "INSTITUTO ABRADECONT",
+    "consultor": "Aline Malta",
+    "situacao": "in_progress"
+  },
+  {
+    "nome": "Associação Educacional da Juventude",
+    "cnpj_norm": "60518180000120",
+    "nome_norm": "ASSOCIACAO EDUCACIONAL DA JUVENTUDE",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Instituto Matogrossense De Odontologia - Nova Xavantina Ltda",
+    "cnpj_norm": "11534030000102",
+    "nome_norm": "INSTITUTO MATOGROSSENSE DE ODONTOLOGIA NOVA XAVANTINA LTDA",
+    "consultor": "Suelen Pereira",
+    "situacao": "new"
+  },
+  {
+    "nome": "Instituto Acalanto de Ensino",
+    "cnpj_norm": "27038662000107",
+    "nome_norm": "INSTITUTO ACALANTO DE ENSINO",
+    "consultor": null,
+    "situacao": "fup"
+  },
+  {
+    "nome": "Go On Associated",
+    "cnpj_norm": "05546793000162",
+    "nome_norm": "GO ON ASSOCIATED",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "INDT - Instituto de Desenvolvimento Tecnológico",
+    "cnpj_norm": "04802134000187",
+    "nome_norm": "INDT INSTITUTO DE DESENVOLVIMENTO TECNOLOGICO",
+    "consultor": null,
+    "situacao": "in_progress"
+  },
+  {
+    "nome": "Sindicato Dos Servidores Do Ministerio do Publico do Estado",
+    "cnpj_norm": "68970888000129",
+    "nome_norm": "SINDICATO DOS SERVIDORES DO MINISTERIO DO PUBLICO DO ESTADO",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Fundacao Instituto De Ensino Para Osasco",
+    "cnpj_norm": "73063166000120",
+    "nome_norm": "FUNDACAO INSTITUTO DE ENSINO PARA OSASCO",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Santos Salles Advogados Associados",
+    "cnpj_norm": "05546785000116",
+    "nome_norm": "SANTOS SALLES ADVOGADOS ASSOCIADOS",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Meloni Advogados Associados",
+    "cnpj_norm": "01764451000168",
+    "nome_norm": "MELONI ADVOGADOS ASSOCIADOS",
+    "consultor": null,
+    "situacao": "in_progress"
+  },
+  {
+    "nome": "Instituto Sao Paulo Contra A Violencia",
+    "cnpj_norm": "02433021000126",
+    "nome_norm": "INSTITUTO SAO PAULO CONTRA A VIOLENCIA",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Instituto Brasileiro De Gestao Cultural",
+    "cnpj_norm": "09300324000110",
+    "nome_norm": "INSTITUTO BRASILEIRO DE GESTAO CULTURAL",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Associated Spring Do Brasil Ltda",
+    "cnpj_norm": "48610521000197",
+    "nome_norm": "ASSOCIATED SPRING DO BRASIL LTDA",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Associacao Beneditina De Educacao E Assistencia Social",
+    "cnpj_norm": "60833803000159",
+    "nome_norm": "ASSOCIACAO BENEDITINA DE EDUCACAO E ASSISTENCIA SOCIAL",
+    "consultor": "Gisele Costa",
+    "situacao": "new"
+  },
+  {
+    "nome": "Toledo Piza Advogados Associados",
+    "cnpj_norm": "02735428000108",
+    "nome_norm": "TOLEDO PIZA ADVOGADOS ASSOCIADOS",
+    "consultor": null,
+    "situacao": "in_progress"
+  },
+  {
+    "nome": "Pavan E Associados Ltda",
+    "cnpj_norm": "37139078000100",
+    "nome_norm": "PAVAN E ASSOCIADOS LTDA",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Ama associação de amigos de autista",
+    "cnpj_norm": "03298931000106",
+    "nome_norm": "AMA ASSOCIACAO DE AMIGOS DE AUTISTA",
+    "consultor": "Bruna Marega",
+    "situacao": "lost"
+  },
+  {
+    "nome": "Associação Cultura Inglesa",
+    "cnpj_norm": "61793907000140",
+    "nome_norm": "ASSOCIACAO CULTURA INGLESA",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Associação Brasileira de Educação -Abreduc",
+    "cnpj_norm": "",
+    "nome_norm": "ASSOCIACAO BRASILEIRA DE EDUCACAO ABREDUC",
+    "consultor": "Angelica Rodrigues",
+    "situacao": "new"
+  },
+  {
+    "nome": "ASSOCIACAO ADMINISTRADORA DA FAIXA DE 35 GHZ EAF",
+    "cnpj_norm": "45282870000139",
+    "nome_norm": "ASSOCIACAO ADMINISTRADORA DA FAIXA DE 35 GHZ EAF",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Instituto Nacional De Tecnologia E Saúde",
+    "cnpj_norm": "11344038000106",
+    "nome_norm": "INSTITUTO NACIONAL DE TECNOLOGIA E SAUDE",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Instituto De Gestao Educacional E Valorizacao Do Ensino - Igeve",
+    "cnpj_norm": "28413401002217",
+    "nome_norm": "INSTITUTO DE GESTAO EDUCACIONAL E VALORIZACAO DO ENSINO IGEVE",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Abasc - Associação Brasileira De Ação Social Crista",
+    "cnpj_norm": "02653857000993",
+    "nome_norm": "ABASC ASSOCIACAO BRASILEIRA DE ACAO SOCIAL CRISTA",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Instituto Nacional De Tecnologia E Saúde",
+    "cnpj_norm": "11344038000289",
+    "nome_norm": "INSTITUTO NACIONAL DE TECNOLOGIA E SAUDE",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Instituto Riograndense De Desenvolvimento Social Integrado",
+    "cnpj_norm": "23931208000120",
+    "nome_norm": "INSTITUTO RIOGRANDENSE DE DESENVOLVIMENTO SOCIAL INTEGRADO",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Associação Harmonia De Educação E Cultura",
+    "cnpj_norm": "59146076000172",
+    "nome_norm": "ASSOCIACAO HARMONIA DE EDUCACAO E CULTURA",
+    "consultor": "Suelen Pereira",
+    "situacao": "fup"
+  },
+  {
+    "nome": "Primeiro De Maio Futebol Clube",
+    "cnpj_norm": "57588196000102",
+    "nome_norm": "PRIMEIRO DE MAIO FUTEBOL CLUBE",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Instituto Bom Jesus",
+    "cnpj_norm": "06339994000585",
+    "nome_norm": "INSTITUTO BOM JESUS",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Cassi- Caixa De Assistencia Dos Funcionarios Do Br",
+    "cnpj_norm": "33719485000399",
+    "nome_norm": "CASSI CAIXA DE ASSISTENCIA DOS FUNCIONARIOS DO BR",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Associação Amigos Metroviários Dos Excepcionais - Ame",
+    "cnpj_norm": "64917818000156",
+    "nome_norm": "ASSOCIACAO AMIGOS METROVIARIOS DOS EXCEPCIONAIS AME",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Instituto Soleil",
+    "cnpj_norm": "61394763000159",
+    "nome_norm": "INSTITUTO SOLEIL",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Associação Cultural E Desportiva Bandeirantes",
+    "cnpj_norm": "67009043000109",
+    "nome_norm": "ASSOCIACAO CULTURAL E DESPORTIVA BANDEIRANTES",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Instituto Nacional De Pesquisa E Gestao Em Saude",
+    "cnpj_norm": "44563716000172",
+    "nome_norm": "INSTITUTO NACIONAL DE PESQUISA E GESTAO EM SAUDE",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Instituto Verus",
+    "cnpj_norm": "13256974000182",
+    "nome_norm": "INSTITUTO VERUS",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Clube De Beneficios Bem Protege Truck",
+    "cnpj_norm": "13762231000184",
+    "nome_norm": "CLUBE DE BENEFICIOS BEM PROTEGE TRUCK",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Associação Residencial Alphaville 2",
+    "cnpj_norm": "49721830000105",
+    "nome_norm": "ASSOCIACAO RESIDENCIAL ALPHAVILLE 2",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Instituto De Educação E Cultura Unidade Jardim S/C Ltda",
+    "cnpj_norm": "03311588000192",
+    "nome_norm": "INSTITUTO DE EDUCACAO E CULTURA UNIDADE JARDIM S C LTDA",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Instituto De Gestao Educacional E Valorizacao Do Ensino - Igeve",
+    "cnpj_norm": "28413401000192",
+    "nome_norm": "INSTITUTO DE GESTAO EDUCACIONAL E VALORIZACAO DO ENSINO IGEVE",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "4Id Medicos Associados",
+    "cnpj_norm": "20476731000115",
+    "nome_norm": "4ID MEDICOS ASSOCIADOS",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Instituto De Biomedicina Do Abc",
+    "cnpj_norm": "05652452000171",
+    "nome_norm": "INSTITUTO DE BIOMEDICINA DO ABC",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Sindicato Do Comercio Varejista Do Abc",
+    "cnpj_norm": "57540080000195",
+    "nome_norm": "SINDICATO DO COMERCIO VAREJISTA DO ABC",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Associacao Interacao Para Promocao De Saude E Desenvolvimento Social",
+    "cnpj_norm": "13086758000136",
+    "nome_norm": "ASSOCIACAO INTERACAO PARA PROMOCAO DE SAUDE E DESENVOLVIMENTO SOCIAL",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Uniao Textil",
+    "cnpj_norm": "44506155000170",
+    "nome_norm": "UNIAO TEXTIL",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Instituto Barueri",
+    "cnpj_norm": "18787461000200",
+    "nome_norm": "INSTITUTO BARUERI",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "União Comercial Barão Ltda",
+    "cnpj_norm": "24013278001800",
+    "nome_norm": "UNIAO COMERCIAL BARAO LTDA",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Transitória - Federação Espirita Do Estado De São Paulo",
+    "cnpj_norm": "61669966000291",
+    "nome_norm": "TRANSITORIA FEDERACAO ESPIRITA DO ESTADO DE SAO PAULO",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Instituto Brasileiro De Formação E Capacitação",
+    "cnpj_norm": "09211443000104",
+    "nome_norm": "INSTITUTO BRASILEIRO DE FORMACAO E CAPACITACAO",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Alvorada Instituto Educacional E Assistencial",
+    "cnpj_norm": "27336245000140",
+    "nome_norm": "ALVORADA INSTITUTO EDUCACIONAL E ASSISTENCIAL",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Instituto De Ação Social Enéas Tognini",
+    "cnpj_norm": "17270037000132",
+    "nome_norm": "INSTITUTO DE ACAO SOCIAL ENEAS TOGNINI",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Instituto Verus",
+    "cnpj_norm": "13256974000778",
+    "nome_norm": "INSTITUTO VERUS",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Instituto Verus",
+    "cnpj_norm": "13256974000344",
+    "nome_norm": "INSTITUTO VERUS",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Associacao Assistencial Edificando Vidas Ii",
+    "cnpj_norm": "30329974000265",
+    "nome_norm": "ASSOCIACAO ASSISTENCIAL EDIFICANDO VIDAS II",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Fundação Instituto Tecnológico De Osasco",
+    "cnpj_norm": "73050536000195",
+    "nome_norm": "FUNDACAO INSTITUTO TECNOLOGICO DE OSASCO",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Instituto Alpha - Poa",
+    "cnpj_norm": "14512229000381",
+    "nome_norm": "INSTITUTO ALPHA POA",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Associação Irmas Da Providencia",
+    "cnpj_norm": "71854319000394",
+    "nome_norm": "ASSOCIACAO IRMAS DA PROVIDENCIA",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Instituto Isv",
+    "cnpj_norm": "07771646000111",
+    "nome_norm": "INSTITUTO ISV",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Associacao Atletica 100 Porcento Familia",
+    "cnpj_norm": "11907496000106",
+    "nome_norm": "ASSOCIACAO ATLETICA 100 PORCENTO FAMILIA",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Bem Protege Clube De Beneficios",
+    "cnpj_norm": "10476457000120",
+    "nome_norm": "BEM PROTEGE CLUBE DE BENEFICIOS",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Instituto Alpha De Medicina Para Saude",
+    "cnpj_norm": "14512229000110",
+    "nome_norm": "INSTITUTO ALPHA DE MEDICINA PARA SAUDE",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Federação Espirita Do Estado De São Paulo",
+    "cnpj_norm": "61669966000100",
+    "nome_norm": "FEDERACAO ESPIRITA DO ESTADO DE SAO PAULO",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Instituto Santanense De Ensino Superior",
+    "cnpj_norm": "62881099000135",
+    "nome_norm": "INSTITUTO SANTANENSE DE ENSINO SUPERIOR",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Instituto Anima",
+    "cnpj_norm": "05947341000273",
+    "nome_norm": "INSTITUTO ANIMA",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Instituto Nacional De Tecnologia E Saude",
+    "cnpj_norm": "11344038002575",
+    "nome_norm": "INSTITUTO NACIONAL DE TECNOLOGIA E SAUDE",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Instituto Barueri",
+    "cnpj_norm": "18787461000383",
+    "nome_norm": "INSTITUTO BARUERI",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Instituto Devolver Associação Sem Fins Lucrativos",
+    "cnpj_norm": "31785936000107",
+    "nome_norm": "INSTITUTO DEVOLVER ASSOCIACAO SEM FINS LUCRATIVOS",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Instituto Alpha De Medicina Para Saude",
+    "cnpj_norm": "14512229000543",
+    "nome_norm": "INSTITUTO ALPHA DE MEDICINA PARA SAUDE",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Jaragua Clube Campestre",
+    "cnpj_norm": "60464237000155",
+    "nome_norm": "JARAGUA CLUBE CAMPESTRE",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Instituto Verus",
+    "cnpj_norm": "13256974000697",
+    "nome_norm": "INSTITUTO VERUS",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Associacao Dos Amigos Da Praia Do Pulso - Aapp",
+    "cnpj_norm": "50005644000140",
+    "nome_norm": "ASSOCIACAO DOS AMIGOS DA PRAIA DO PULSO AAPP",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Insb - Instituto De Integracao Social De Barueri",
+    "cnpj_norm": "05523358000112",
+    "nome_norm": "INSB INSTITUTO DE INTEGRACAO SOCIAL DE BARUERI",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Instituto De Ensino Marques De Monte Alegre",
+    "cnpj_norm": "28926957000182",
+    "nome_norm": "INSTITUTO DE ENSINO MARQUES DE MONTE ALEGRE",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Santos Construtores Associados Ltda",
+    "cnpj_norm": "96497284000142",
+    "nome_norm": "SANTOS CONSTRUTORES ASSOCIADOS LTDA",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Associação Alphaville Residencial-3",
+    "cnpj_norm": "51243905000123",
+    "nome_norm": "ASSOCIACAO ALPHAVILLE RESIDENCIAL 3",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "União Brasileira Educação e Ensino",
+    "cnpj_norm": "17200684000178",
+    "nome_norm": "UNIAO BRASILEIRA EDUCACAO E ENSINO",
+    "consultor": "Nathalia Ferrite",
+    "situacao": "in_progress"
+  },
+  {
+    "nome": "Instituto Moreira Salles",
+    "cnpj_norm": "58397563000145",
+    "nome_norm": "INSTITUTO MOREIRA SALLES",
+    "consultor": "Nathalia Ferrite",
+    "situacao": "in_progress"
+  },
+  {
+    "nome": "Associação da Caixa Economica Federal ",
+    "cnpj_norm": "43202969000158",
+    "nome_norm": "ASSOCIACAO DA CAIXA ECONOMICA FEDERAL",
+    "consultor": "Nathalia Ferrite",
+    "situacao": "in_progress"
+  },
+  {
+    "nome": "Doria Associados Consultoria Ltda",
+    "cnpj_norm": "08319884000153",
+    "nome_norm": "DORIA ASSOCIADOS CONSULTORIA LTDA",
+    "consultor": "Suelen Pereira",
+    "situacao": "fup"
+  },
+  {
+    "nome": "Alibieri e Associados Consultoria Empresarial e Tecnologia Ltda.",
+    "cnpj_norm": "19267659000137",
+    "nome_norm": "ALIBIERI E ASSOCIADOS CONSULTORIA EMPRESARIAL E TECNOLOGIA LTDA",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Barcelos E Janssen Advogados Associados",
+    "cnpj_norm": "06888951000125",
+    "nome_norm": "BARCELOS E JANSSEN ADVOGADOS ASSOCIADOS",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Associacao Recr, Educ, Soc E Benef Dos Serv Mun Do Est Do Es",
+    "cnpj_norm": "15752539000174",
+    "nome_norm": "ASSOCIACAO RECR EDUC SOC E BENEF DOS SERV MUN DO EST DO ES",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Associacao Comercial De Sao Paulo",
+    "cnpj_norm": "60524550000131",
+    "nome_norm": "ASSOCIACAO COMERCIAL DE SAO PAULO",
+    "consultor": "Marcelo Natal",
+    "situacao": "in_progress"
+  },
+  {
+    "nome": "Associacao Dos Empregados Da Copasa, De Suas Subsidiarias E Patrocinadas - Aeco",
+    "cnpj_norm": "18777383000174",
+    "nome_norm": "ASSOCIACAO DOS EMPREGADOS DA COPASA DE SUAS SUBSIDIARIAS E PATROCINADAS AECO",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Sindicato Dos Servidores Publicos Federais No Est Do Es",
+    "cnpj_norm": "36045110000117",
+    "nome_norm": "SINDICATO DOS SERVIDORES PUBLICOS FEDERAIS NO EST DO ES",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "AES - Associação dos Empregados do - SENAI",
+    "cnpj_norm": "11473205000100",
+    "nome_norm": "AES ASSOCIACAO DOS EMPREGADOS DO SENAI",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Abet (Associacao Brasileira Dos Empregados Em Telecomunicacoes)",
+    "cnpj_norm": "63089205000105",
+    "nome_norm": "ABET ASSOCIACAO BRASILEIRA DOS EMPREGADOS EM TELECOMUNICACOES",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Eai Clube Automobilista S.A.",
+    "cnpj_norm": "34656383000172",
+    "nome_norm": "EAI CLUBE AUTOMOBILISTA S A",
+    "consultor": "Suelen Pereira",
+    "situacao": "fup"
+  },
+  {
+    "nome": "Instituto Lemann",
+    "cnpj_norm": "13691751000143",
+    "nome_norm": "INSTITUTO LEMANN",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Instituto Renovo",
+    "cnpj_norm": "57353054000239",
+    "nome_norm": "INSTITUTO RENOVO",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Damasco Penna Engenheiros Associados Ltda",
+    "cnpj_norm": "43463173000159",
+    "nome_norm": "DAMASCO PENNA ENGENHEIROS ASSOCIADOS LTDA",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Afas Adviser Consultores Associados Ltda",
+    "cnpj_norm": "66050410000155",
+    "nome_norm": "AFAS ADVISER CONSULTORES ASSOCIADOS LTDA",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Global Partners Associados E Consultoria Empresarial",
+    "cnpj_norm": "65085862000100",
+    "nome_norm": "GLOBAL PARTNERS ASSOCIADOS E CONSULTORIA EMPRESARIAL",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Sp Leituras - Associação Paulista De Bibliotecas E Leitura",
+    "cnpj_norm": "12480948000170",
+    "nome_norm": "SP LEITURAS ASSOCIACAO PAULISTA DE BIBLIOTECAS E LEITURA",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Transportadora Nova Uniao Ltda",
+    "cnpj_norm": "02400001000159",
+    "nome_norm": "TRANSPORTADORA NOVA UNIAO LTDA",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Esporte Clube Sirio",
+    "cnpj_norm": "61006839000121",
+    "nome_norm": "ESPORTE CLUBE SIRIO",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Clube Hipico de Santo Amaro",
+    "cnpj_norm": "49086291000171",
+    "nome_norm": "CLUBE HIPICO DE SANTO AMARO",
+    "consultor": "Thamires Rosa",
+    "situacao": "lost"
+  },
+  {
+    "nome": "Barral Mj Consultores Associados Ltda",
+    "cnpj_norm": "03953995000101",
+    "nome_norm": "BARRAL MJ CONSULTORES ASSOCIADOS LTDA",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Associacao Comercial de Sao Paulo",
+    "cnpj_norm": "60524550000131",
+    "nome_norm": "ASSOCIACAO COMERCIAL DE SAO PAULO",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Associacao Hospitalar Filhas De Nossa Senhora Do Monte Calvario",
+    "cnpj_norm": "18180008000142",
+    "nome_norm": "ASSOCIACAO HOSPITALAR FILHAS DE NOSSA SENHORA DO MONTE CALVARIO",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Instituto Ecofuturo - Futuro Para O Desenvolvimento Sustentavel",
+    "cnpj_norm": "03881866000228",
+    "nome_norm": "INSTITUTO ECOFUTURO FUTURO PARA O DESENVOLVIMENTO SUSTENTAVEL",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Instituto De Arte Brasil Ltda",
+    "cnpj_norm": "09168260000145",
+    "nome_norm": "INSTITUTO DE ARTE BRASIL LTDA",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Iepy - Instituto De Ensino E Pesquisas Em Yoga Ltda",
+    "cnpj_norm": "07473888000129",
+    "nome_norm": "IEPY INSTITUTO DE ENSINO E PESQUISAS EM YOGA LTDA",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Associacao Brasileira Dos Fabricantes De Tintas",
+    "cnpj_norm": "54961347000120",
+    "nome_norm": "ASSOCIACAO BRASILEIRA DOS FABRICANTES DE TINTAS",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Associacao Nacional de Hospitais Privados - Anahp",
+    "cnpj_norm": "04832584000112",
+    "nome_norm": "ASSOCIACAO NACIONAL DE HOSPITAIS PRIVADOS ANAHP",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "YOUNG, DIAS, LAUXEN E LIMA ADVOGADOS ASSOCIADOS - ASSESSORIA JURIDICA",
+    "cnpj_norm": "04565418000105",
+    "nome_norm": "YOUNG DIAS LAUXEN E LIMA ADVOGADOS ASSOCIADOS ASSESSORIA JURIDICA",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Correa Leite Peritos Associados Ltda",
+    "cnpj_norm": "03410543000175",
+    "nome_norm": "CORREA LEITE PERITOS ASSOCIADOS LTDA",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Associação do Pão dos Pobres de Santo Antônio",
+    "cnpj_norm": "46044483000127",
+    "nome_norm": "ASSOCIACAO DO PAO DOS POBRES DE SANTO ANTONIO",
+    "consultor": "Juliana Boldrini",
+    "situacao": "in_progress"
+  },
+  {
+    "nome": "Unica - União da Agroindustria Canavieira e Bioenergia do Brasil",
+    "cnpj_norm": "01924579000141",
+    "nome_norm": "UNICA UNIAO DA AGROINDUSTRIA CANAVIEIRA E BIOENERGIA DO BRASIL",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Fundação Instituto de pesquisa e estudo de diagnóstico de imagem - FIDI",
+    "cnpj_norm": "55401178000136",
+    "nome_norm": "FUNDACAO INSTITUTO DE PESQUISA E ESTUDO DE DIAGNOSTICO DE IMAGEM FIDI",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "ASSOCIACAO CULTURA INGLESA - SAO PAULO",
+    "cnpj_norm": "61793907000140",
+    "nome_norm": "ASSOCIACAO CULTURA INGLESA SAO PAULO",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Ferrareze e Freitas Advogados Associados",
+    "cnpj_norm": "16894447000191",
+    "nome_norm": "FERRAREZE E FREITAS ADVOGADOS ASSOCIADOS",
+    "consultor": "Juliana Boldrini",
+    "situacao": "in_progress"
+  },
+  {
+    "nome": "Associacao Amigos do Museu Nacional Samn",
+    "cnpj_norm": "30024681000350",
+    "nome_norm": "ASSOCIACAO AMIGOS DO MUSEU NACIONAL SAMN",
+    "consultor": "Leandro Tiago",
+    "situacao": "new"
+  },
+  {
+    "nome": "Associacao Educacional Padre Anchieta Ltda",
+    "cnpj_norm": "01389134000109",
+    "nome_norm": "ASSOCIACAO EDUCACIONAL PADRE ANCHIETA LTDA",
+    "consultor": "Leandro Tiago",
+    "situacao": "new"
+  },
+  {
+    "nome": "Associação Congregação de Santa Catarina.",
+    "cnpj_norm": "91681361000368",
+    "nome_norm": "ASSOCIACAO CONGREGACAO DE SANTA CATARINA",
+    "consultor": "Leandro Tiago",
+    "situacao": "new"
+  },
+  {
+    "nome": "Associacao Amigos do Museu Nacional Samn",
+    "cnpj_norm": "30024681000350",
+    "nome_norm": "ASSOCIACAO AMIGOS DO MUSEU NACIONAL SAMN",
+    "consultor": "Leandro Tiago",
+    "situacao": "new"
+  },
+  {
+    "nome": "Charles Machado & Associados Consultores LTDA",
+    "cnpj_norm": "00238052000109",
+    "nome_norm": "CHARLES MACHADO ASSOCIADOS CONSULTORES LTDA",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Instituto Saude E Cidadania - Isac",
+    "cnpj_norm": "14702257000361",
+    "nome_norm": "INSTITUTO SAUDE E CIDADANIA ISAC",
+    "consultor": "Fernanda Brum",
+    "situacao": "new"
+  },
+  {
+    "nome": "CAVALCANTI, GASPARINI E MENEGHEL ADVOGADOS ASSOCIADOS",
+    "cnpj_norm": "26925069000110",
+    "nome_norm": "CAVALCANTI GASPARINI E MENEGHEL ADVOGADOS ASSOCIADOS",
+    "consultor": "Fernanda Brum",
+    "situacao": "new"
+  },
+  {
+    "nome": "Hartmann Advogados Associados",
+    "cnpj_norm": "09569317000118",
+    "nome_norm": "HARTMANN ADVOGADOS ASSOCIADOS",
+    "consultor": "Fernanda Brum",
+    "situacao": "new"
+  },
+  {
+    "nome": "Immediate Consultoria e Sistemas LTDA",
+    "cnpj_norm": "05050074000156",
+    "nome_norm": "IMMEDIATE CONSULTORIA E SISTEMAS LTDA",
+    "consultor": "Fernanda Brum",
+    "situacao": "new"
+  },
+  {
+    "nome": "Uniao Marista Do Brasil - Umbrasil",
+    "cnpj_norm": "",
+    "nome_norm": "UNIAO MARISTA DO BRASIL UMBRASIL",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Vernalha Guimaraes & Pereira Advogados Associados",
+    "cnpj_norm": "",
+    "nome_norm": "VERNALHA GUIMARAES PEREIRA ADVOGADOS ASSOCIADOS",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Spdm Associacao Paulista Para O Desenvolvimento Da Medicina",
+    "cnpj_norm": "",
+    "nome_norm": "SPDM ASSOCIACAO PAULISTA PARA O DESENVOLVIMENTO DA MEDICINA",
+    "consultor": "Nathalia Ferrite",
+    "situacao": "new"
+  },
+  {
+    "nome": "Instituto Fernand Braudel De Economia Mundial",
+    "cnpj_norm": "",
+    "nome_norm": "INSTITUTO FERNAND BRAUDEL DE ECONOMIA MUNDIAL",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Sociedade Harmonia De Tenis",
+    "cnpj_norm": "",
+    "nome_norm": "SOCIEDADE HARMONIA DE TENIS",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Hypofarma Instituto De Hypodermia E Farmacia Ltda",
+    "cnpj_norm": "",
+    "nome_norm": "HYPOFARMA INSTITUTO DE HYPODERMIA E FARMACIA LTDA",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Associacao Nacional Dos Fabricantes De Veiculos Automotores - Anfavea",
+    "cnpj_norm": "43054493000155",
+    "nome_norm": "ASSOCIACAO NACIONAL DOS FABRICANTES DE VEICULOS AUTOMOTORES ANFAVEA",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Associacao De Assistencia A Crianca Deficiente",
+    "cnpj_norm": "",
+    "nome_norm": "ASSOCIACAO DE ASSISTENCIA A CRIANCA DEFICIENTE",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Clube Atletico Mineiro",
+    "cnpj_norm": "",
+    "nome_norm": "CLUBE ATLETICO MINEIRO",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Associacao Escola Superior De Propaganda E Marketing",
+    "cnpj_norm": "",
+    "nome_norm": "ASSOCIACAO ESCOLA SUPERIOR DE PROPAGANDA E MARKETING",
+    "consultor": "Aline Malta",
+    "situacao": "new"
+  },
+  {
+    "nome": "Eg Associados Assessoria E Tecnologia Ltda",
+    "cnpj_norm": "23654888000181",
+    "nome_norm": "EG ASSOCIADOS ASSESSORIA E TECNOLOGIA LTDA",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Associacao Brasileira De Incorporadoras Imobi",
+    "cnpj_norm": "18098682000182",
+    "nome_norm": "ASSOCIACAO BRASILEIRA DE INCORPORADORAS IMOBI",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Associacao Dos Franqueados Da Rede De Lanchonetes Giraffas - Agir - Saúde",
+    "cnpj_norm": "03897802000134",
+    "nome_norm": "ASSOCIACAO DOS FRANQUEADOS DA REDE DE LANCHONETES GIRAFFAS AGIR SAUDE",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "ASSOCIACAO CONGREGACAO DE SANTA CATARINA",
+    "cnpj_norm": "",
+    "nome_norm": "ASSOCIACAO CONGREGACAO DE SANTA CATARINA",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "ASSOCIACAO FRANCISCANA DE ENSINO SENHOR BOM JESUS",
+    "cnpj_norm": "",
+    "nome_norm": "ASSOCIACAO FRANCISCANA DE ENSINO SENHOR BOM JESUS",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Instituto Ayrton Senna",
+    "cnpj_norm": "",
+    "nome_norm": "INSTITUTO AYRTON SENNA",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "ASSOCIACAO BRASILEIRA DE RECURSOS EM TELECOMUNICACOES",
+    "cnpj_norm": "",
+    "nome_norm": "ASSOCIACAO BRASILEIRA DE RECURSOS EM TELECOMUNICACOES",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Instituto de Tecnologia para O Desenvolvimento",
+    "cnpj_norm": "",
+    "nome_norm": "INSTITUTO DE TECNOLOGIA PARA O DESENVOLVIMENTO",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "ASSOCIACAO DOS FUNCIONARIOS DO GRUPO HERVAL",
+    "cnpj_norm": "",
+    "nome_norm": "ASSOCIACAO DOS FUNCIONARIOS DO GRUPO HERVAL",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "ASSOCIACAO FUNDO DE INCENTIVO A PESQUISA",
+    "cnpj_norm": "",
+    "nome_norm": "ASSOCIACAO FUNDO DE INCENTIVO A PESQUISA",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Anbima Associacao Brasileira Entidades Mercados Financeiro Capitais",
+    "cnpj_norm": "",
+    "nome_norm": "ANBIMA ASSOCIACAO BRASILEIRA ENTIDADES MERCADOS FINANCEIRO CAPITAIS",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Associacao de Assistencia A Crianca Deficiente",
+    "cnpj_norm": "",
+    "nome_norm": "ASSOCIACAO DE ASSISTENCIA A CRIANCA DEFICIENTE",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "ABCON - ASSOCIACAO BRASILEIRA DAS CONCESSIONARIAS PRIVADAS DE SERVICOS PUBLICOS DE AGUA E ESGOTO",
+    "cnpj_norm": "",
+    "nome_norm": "ABCON ASSOCIACAO BRASILEIRA DAS CONCESSIONARIAS PRIVADAS DE SERVICOS PUBLICOS DE AGUA E ESGOTO",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "FEDERACAO PAULISTA DE FUTEBOL",
+    "cnpj_norm": "",
+    "nome_norm": "FEDERACAO PAULISTA DE FUTEBOL",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Associacao Dos Franqueados Da Rede De Lanchonetes Giraffas - Agir",
+    "cnpj_norm": "03897802000134",
+    "nome_norm": "ASSOCIACAO DOS FRANQUEADOS DA REDE DE LANCHONETES GIRAFFAS AGIR",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "SINDICATO NACIONAL",
+    "cnpj_norm": "",
+    "nome_norm": "SINDICATO NACIONAL",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "SINDICATO DOS FARMACEUTICOS",
+    "cnpj_norm": "",
+    "nome_norm": "SINDICATO DOS FARMACEUTICOS",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "SANTANA INSTITUTO",
+    "cnpj_norm": "",
+    "nome_norm": "SANTANA INSTITUTO",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "INSTITUTO HOC",
+    "cnpj_norm": "",
+    "nome_norm": "INSTITUTO HOC",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Associacao Escola Suico-Brasileira",
+    "cnpj_norm": "62014352000153",
+    "nome_norm": "ASSOCIACAO ESCOLA SUICO BRASILEIRA",
+    "consultor": "Leandro Peralta",
+    "situacao": "new"
+  },
+  {
+    "nome": "Associacao P De Bibliotecas E Leitura",
+    "cnpj_norm": "12480948000170",
+    "nome_norm": "ASSOCIACAO P DE BIBLIOTECAS E LEITURA",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Associacao Catolica Nossa Senhora De Fatima",
+    "cnpj_norm": "02090452000137",
+    "nome_norm": "ASSOCIACAO CATOLICA NOSSA SENHORA DE FATIMA",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Clube Servicos Administracao E Participacoes S A",
+    "cnpj_norm": "07900154000189",
+    "nome_norm": "CLUBE SERVICOS ADMINISTRACAO E PARTICIPACOES S A",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Santos Futebol Clube",
+    "cnpj_norm": "58196684000129",
+    "nome_norm": "SANTOS FUTEBOL CLUBE",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Prosam Associacao Pro Saude Mental",
+    "cnpj_norm": "57810053000195",
+    "nome_norm": "PROSAM ASSOCIACAO PRO SAUDE MENTAL",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Associacao Das Industrias De Boituva Ipero E Regiao Assinbi",
+    "cnpj_norm": "11554826000119",
+    "nome_norm": "ASSOCIACAO DAS INDUSTRIAS DE BOITUVA IPERO E REGIAO ASSINBI",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Mma & Associados Cons. Neg. De Com. E Mark. Ltda",
+    "cnpj_norm": "07757989000121",
+    "nome_norm": "MMA ASSOCIADOS CONS NEG DE COM E MARK LTDA",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Instituto Educacional Batista Biblico S/S Ltda - Me",
+    "cnpj_norm": "00399943000139",
+    "nome_norm": "INSTITUTO EDUCACIONAL BATISTA BIBLICO S S LTDA ME",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Konigsberger Vannucchi Arquitetos Associados Ltda",
+    "cnpj_norm": "46358602000116",
+    "nome_norm": "KONIGSBERGER VANNUCCHI ARQUITETOS ASSOCIADOS LTDA",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Marcam Contadores Associados Ltda",
+    "cnpj_norm": "55294961000148",
+    "nome_norm": "MARCAM CONTADORES ASSOCIADOS LTDA",
+    "consultor": "Adriano Oliveira",
+    "situacao": "in_progress"
+  },
+  {
+    "nome": "Wm & Associados S/C Ltda",
+    "cnpj_norm": "59084749000107",
+    "nome_norm": "WM ASSOCIADOS S C LTDA",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Fernandes Arquitetos Associados Ltda",
+    "cnpj_norm": "03064486000110",
+    "nome_norm": "FERNANDES ARQUITETOS ASSOCIADOS LTDA",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Sindicato Dos Servidores De Aruja E Regiao",
+    "cnpj_norm": "66654476000154",
+    "nome_norm": "SINDICATO DOS SERVIDORES DE ARUJA E REGIAO",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Sindicato Dos Clubes Do Estado De Sao Paulo",
+    "cnpj_norm": "60554417000128",
+    "nome_norm": "SINDICATO DOS CLUBES DO ESTADO DE SAO PAULO",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Instituto De Psicopatologia Ipp Ss Ltda Me",
+    "cnpj_norm": "05815274000152",
+    "nome_norm": "INSTITUTO DE PSICOPATOLOGIA IPP SS LTDA ME",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Criate Modas Fitnes",
+    "cnpj_norm": "20422932000130",
+    "nome_norm": "CRIATE MODAS FITNES",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Camargo Ramos Contadores Associados Ltda",
+    "cnpj_norm": "11177187000110",
+    "nome_norm": "CAMARGO RAMOS CONTADORES ASSOCIADOS LTDA",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Associacao Comercial E Empresarial De Suzano",
+    "cnpj_norm": "44408615000127",
+    "nome_norm": "ASSOCIACAO COMERCIAL E EMPRESARIAL DE SUZANO",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Assad Advogados Associados",
+    "cnpj_norm": "02649039000160",
+    "nome_norm": "ASSAD ADVOGADOS ASSOCIADOS",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Almeida Bugelli E Valenca Advocacia Associados",
+    "cnpj_norm": "05431401000110",
+    "nome_norm": "ALMEIDA BUGELLI E VALENCA ADVOCACIA ASSOCIADOS",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "INSTITUTO SABIN",
+    "cnpj_norm": "07417024000190",
+    "nome_norm": "INSTITUTO SABIN",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Instituto Pentagono De Ensino Superior Ltda - Epp",
+    "cnpj_norm": "05996701000146",
+    "nome_norm": "INSTITUTO PENTAGONO DE ENSINO SUPERIOR LTDA EPP",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Associacao De Lojista -Polo Moda Shopp, Pronta Entrega",
+    "cnpj_norm": "69262822000147",
+    "nome_norm": "ASSOCIACAO DE LOJISTA POLO MODA SHOPP PRONTA ENTREGA",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Associação Cultural Franciscana",
+    "cnpj_norm": "60806577000117",
+    "nome_norm": "ASSOCIACAO CULTURAL FRANCISCANA",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Sindicato Dos Empregados No Comercio Hoteleiro E Similares De Sao Paulo",
+    "cnpj_norm": "62657168000121",
+    "nome_norm": "SINDICATO DOS EMPREGADOS NO COMERCIO HOTELEIRO E SIMILARES DE SAO PAULO",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Confederação Sul-Americana de Voleibol",
+    "cnpj_norm": "06079835000165",
+    "nome_norm": "CONFEDERACAO SUL AMERICANA DE VOLEIBOL",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Associação de Ensino Social Profissionalizante (Espro)",
+    "cnpj_norm": "51549301000100",
+    "nome_norm": "ASSOCIACAO DE ENSINO SOCIAL PROFISSIONALIZANTE ESPRO",
+    "consultor": "Marcelo Natal",
+    "situacao": "fup"
+  },
+  {
+    "nome": "Associacao Dos Agentes Fiscais De Rendas Do Estado De Sao Paulo",
+    "cnpj_norm": "62635990000191",
+    "nome_norm": "ASSOCIACAO DOS AGENTES FISCAIS DE RENDAS DO ESTADO DE SAO PAULO",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Instituto Coca-Cola Brasil",
+    "cnpj_norm": "03093215000192",
+    "nome_norm": "INSTITUTO COCA COLA BRASIL",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Clube De Atletismo Bmefbovespa",
+    "cnpj_norm": "18030032000103",
+    "nome_norm": "CLUBE DE ATLETISMO BMEFBOVESPA",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Associacao Dos Proprietaros Em Reserva Ibirapitanga",
+    "cnpj_norm": "04955427000202",
+    "nome_norm": "ASSOCIACAO DOS PROPRIETAROS EM RESERVA IBIRAPITANGA",
+    "consultor": "Suelen Pereira",
+    "situacao": "fup"
+  },
+  {
+    "nome": "INSTITUTO ATLANTICO",
+    "cnpj_norm": "04614281000395",
+    "nome_norm": "INSTITUTO ATLANTICO",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "ASSOCIACAO SANTA MARCELINA",
+    "cnpj_norm": "60742855000110",
+    "nome_norm": "ASSOCIACAO SANTA MARCELINA",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Sindicato dos Petroleiros e industriais do Estado do Rio Grande do Norte e Minas Gerais",
+    "cnpj_norm": "85592439000103",
+    "nome_norm": "SINDICATO DOS PETROLEIROS E INDUSTRIAIS DO ESTADO DO RIO GRANDE DO NORTE E MINAS GERAIS",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Ferrareze E Freitas Advogados Associados",
+    "cnpj_norm": "03507669000162",
+    "nome_norm": "FERRAREZE E FREITAS ADVOGADOS ASSOCIADOS",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Associação Escolar e Beneficente Corcovado",
+    "cnpj_norm": "33616707000186",
+    "nome_norm": "ASSOCIACAO ESCOLAR E BENEFICENTE CORCOVADO",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Abrapp - Associacao Brasileira Das Entidades Fechadas De Previdencia Complementar",
+    "cnpj_norm": "50258623000137",
+    "nome_norm": "ABRAPP ASSOCIACAO BRASILEIRA DAS ENTIDADES FECHADAS DE PREVIDENCIA COMPLEMENTAR",
+    "consultor": "Suelen Pereira",
+    "situacao": "fup"
+  },
+  {
+    "nome": "Associação Brasileira de Ensaios Não Destrutivos e Inspeção Abende",
+    "cnpj_norm": "51733129000140",
+    "nome_norm": "ASSOCIACAO BRASILEIRA DE ENSAIOS NAO DESTRUTIVOS E INSPECAO ABENDE",
+    "consultor": "Suelen Pereira",
+    "situacao": "fup"
+  },
+  {
+    "nome": "Associação de Educação e Cultura Colégio Rainha",
+    "cnpj_norm": "62410238000142",
+    "nome_norm": "ASSOCIACAO DE EDUCACAO E CULTURA COLEGIO RAINHA",
+    "consultor": "Suelen Pereira",
+    "situacao": "fup"
+  },
+  {
+    "nome": "Confederação Nacional de Dirigentes Lojistas",
+    "cnpj_norm": "34173682000156",
+    "nome_norm": "CONFEDERACAO NACIONAL DE DIRIGENTES LOJISTAS",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Fundação de Apoio ao Instituto de Pesquisas Tecnológicas Fipt",
+    "cnpj_norm": "05505390000175",
+    "nome_norm": "FUNDACAO DE APOIO AO INSTITUTO DE PESQUISAS TECNOLOGICAS FIPT",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Sindicato dos Loj do Com do Município do Rio de Janeiro",
+    "cnpj_norm": "33649542000149",
+    "nome_norm": "SINDICATO DOS LOJ DO COM DO MUNICIPIO DO RIO DE JANEIRO",
+    "consultor": "Suelen Pereira",
+    "situacao": "fup"
+  },
+  {
+    "nome": "Associação dos Artistas Amigos da Praça",
+    "cnpj_norm": "11416041000180",
+    "nome_norm": "ASSOCIACAO DOS ARTISTAS AMIGOS DA PRACA",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Associação das Empresas de Transp Colet Urb de Campinas",
+    "cnpj_norm": "57494130000145",
+    "nome_norm": "ASSOCIACAO DAS EMPRESAS DE TRANSP COLET URB DE CAMPINAS",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Afonso Advogados Associados - Contábil Hub",
+    "cnpj_norm": "03855102000187",
+    "nome_norm": "AFONSO ADVOGADOS ASSOCIADOS CONTABIL HUB",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Associacao Das Empresas Do Centro Industrial De Aruja",
+    "cnpj_norm": "05099025000108",
+    "nome_norm": "ASSOCIACAO DAS EMPRESAS DO CENTRO INDUSTRIAL DE ARUJA",
+    "consultor": "Suelen Pereira",
+    "situacao": "fup"
+  },
+  {
+    "nome": "Associacao Brasileira De Normas Tecnicas",
+    "cnpj_norm": "33402892000106",
+    "nome_norm": "ASSOCIACAO BRASILEIRA DE NORMAS TECNICAS",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Athie Wohnrath Associados Projetos Construcao E Gerenciamento Ltda",
+    "cnpj_norm": "61379863000106",
+    "nome_norm": "ATHIE WOHNRATH ASSOCIADOS PROJETOS CONSTRUCAO E GERENCIAMENTO LTDA",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Instituto Nacional De Desenvolvimento Social E Humano - Indsh",
+    "cnpj_norm": "23453830000170",
+    "nome_norm": "INSTITUTO NACIONAL DE DESENVOLVIMENTO SOCIAL E HUMANO INDSH",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Associacao Saude Da Familia",
+    "cnpj_norm": "",
+    "nome_norm": "ASSOCIACAO SAUDE DA FAMILIA",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Caixa De Assistencia Dos Advogados De Sao Paulo",
+    "cnpj_norm": "44692168000180",
+    "nome_norm": "CAIXA DE ASSISTENCIA DOS ADVOGADOS DE SAO PAULO",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Instituto Techmail De Formação E Capitação De Pessoal",
+    "cnpj_norm": "05695121000119",
+    "nome_norm": "INSTITUTO TECHMAIL DE FORMACAO E CAPITACAO DE PESSOAL",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Associação de Pais e Mestres do Colégio Agostiniano São José",
+    "cnpj_norm": "10352702000198",
+    "nome_norm": "ASSOCIACAO DE PAIS E MESTRES DO COLEGIO AGOSTINIANO SAO JOSE",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Associação Brasil SGI",
+    "cnpj_norm": "62249198000107",
+    "nome_norm": "ASSOCIACAO BRASIL SGI",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Associacao Educativa Maria Teresa",
+    "cnpj_norm": "",
+    "nome_norm": "ASSOCIACAO EDUCATIVA MARIA TERESA",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Carlini Advogados Associados",
+    "cnpj_norm": "04256766000192",
+    "nome_norm": "CARLINI ADVOGADOS ASSOCIADOS",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Rosario Reis E Rastelli Engenheiros Associados Ss Ltda",
+    "cnpj_norm": "15427192000194",
+    "nome_norm": "ROSARIO REIS E RASTELLI ENGENHEIROS ASSOCIADOS SS LTDA",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Instituto De Idiomas Vila Mariana Ss Ltda Epp",
+    "cnpj_norm": "61862058000139",
+    "nome_norm": "INSTITUTO DE IDIOMAS VILA MARIANA SS LTDA EPP",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Marcam Contadores Associados Ltda",
+    "cnpj_norm": "55294961000148",
+    "nome_norm": "MARCAM CONTADORES ASSOCIADOS LTDA",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Instituto Paulo Montenegro",
+    "cnpj_norm": "03988642000139",
+    "nome_norm": "INSTITUTO PAULO MONTENEGRO",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Federação das Industria do Estado do Paraná",
+    "cnpj_norm": "03802018000103",
+    "nome_norm": "FEDERACAO DAS INDUSTRIA DO ESTADO DO PARANA",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Spina E Tavares Medicos Associados Ltda Me",
+    "cnpj_norm": "07172595000101",
+    "nome_norm": "SPINA E TAVARES MEDICOS ASSOCIADOS LTDA ME",
+    "consultor": "Marcelo Natal",
+    "situacao": "new"
+  },
+  {
+    "nome": "São Paulo Futebol Clube",
+    "cnpj_norm": "60517984000104",
+    "nome_norm": "SAO PAULO FUTEBOL CLUBE",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Associacao Amigos Do Projeto Guri",
+    "cnpj_norm": "01891025000195",
+    "nome_norm": "ASSOCIACAO AMIGOS DO PROJETO GURI",
+    "consultor": "Suelen Pereira",
+    "situacao": "fup"
+  },
+  {
+    "nome": "Sindicato Dos Trabalhadores Em Saude Trabalho E Previdencia Social No Estado Do",
+    "cnpj_norm": "32325235000140",
+    "nome_norm": "SINDICATO DOS TRABALHADORES EM SAUDE TRABALHO E PREVIDENCIA SOCIAL NO ESTADO DO",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Associacao Ranieri de Educacao e Cultura LTDA",
+    "cnpj_norm": "59998849000149",
+    "nome_norm": "ASSOCIACAO RANIERI DE EDUCACAO E CULTURA LTDA",
+    "consultor": "Suelen Pereira",
+    "situacao": "fup"
+  },
+  {
+    "nome": "Associacao dos Lojistas do Shopping Center Patio Higienopolis - Alpatio",
+    "cnpj_norm": "03685023000175",
+    "nome_norm": "ASSOCIACAO DOS LOJISTAS DO SHOPPING CENTER PATIO HIGIENOPOLIS ALPATIO",
+    "consultor": "Suelen Pereira",
+    "situacao": "fup"
+  },
+  {
+    "nome": "Associacao Amigos Do Projeto Guri",
+    "cnpj_norm": "01891025000795",
+    "nome_norm": "ASSOCIACAO AMIGOS DO PROJETO GURI",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Instituto Mineiro De Educação E Cultura Uni-Bh",
+    "cnpj_norm": "08446503000105",
+    "nome_norm": "INSTITUTO MINEIRO DE EDUCACAO E CULTURA UNI BH",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Oabprev Sp",
+    "cnpj_norm": "07887827000108",
+    "nome_norm": "OABPREV SP",
+    "consultor": null,
+    "situacao": "fup"
+  },
+  {
+    "nome": "Ninecon Consultores Associados Ltda",
+    "cnpj_norm": "06970582000115",
+    "nome_norm": "NINECON CONSULTORES ASSOCIADOS LTDA",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Peres Potenza Advogados Associados",
+    "cnpj_norm": "01253312000170",
+    "nome_norm": "PERES POTENZA ADVOGADOS ASSOCIADOS",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Associacao De Medicina Intensiva Brasileira Amib",
+    "cnpj_norm": "45339405000197",
+    "nome_norm": "ASSOCIACAO DE MEDICINA INTENSIVA BRASILEIRA AMIB",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Sonne Consultoria Empresarial E Associados Ltda",
+    "cnpj_norm": "07466476000161",
+    "nome_norm": "SONNE CONSULTORIA EMPRESARIAL E ASSOCIADOS LTDA",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Carlos Botelho E Koga Urologistas Associados S C Ltda",
+    "cnpj_norm": "04961895000181",
+    "nome_norm": "CARLOS BOTELHO E KOGA UROLOGISTAS ASSOCIADOS S C LTDA",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Chrys Instituto De Idiomas Ltda Epp",
+    "cnpj_norm": "02389804000150",
+    "nome_norm": "CHRYS INSTITUTO DE IDIOMAS LTDA EPP",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Aapq Associacao De Apoio Ao Projeto Quixote",
+    "cnpj_norm": "04250687000174",
+    "nome_norm": "AAPQ ASSOCIACAO DE APOIO AO PROJETO QUIXOTE",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Federacao Paulista De Golfe",
+    "cnpj_norm": "45544301000114",
+    "nome_norm": "FEDERACAO PAULISTA DE GOLFE",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Associação de Pais e Mestres do Colégio Agostiniano de São José",
+    "cnpj_norm": "10352702000198",
+    "nome_norm": "ASSOCIACAO DE PAIS E MESTRES DO COLEGIO AGOSTINIANO DE SAO JOSE",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "União Química",
+    "cnpj_norm": "60665981000118",
+    "nome_norm": "UNIAO QUIMICA",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Instituto Butantan",
+    "cnpj_norm": "61189445000156",
+    "nome_norm": "INSTITUTO BUTANTAN",
+    "consultor": "Aline Malta",
+    "situacao": "lost"
+  },
+  {
+    "nome": "Associacao Alphaville Residencial 11",
+    "cnpj_norm": "59053751000119",
+    "nome_norm": "ASSOCIACAO ALPHAVILLE RESIDENCIAL 11",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Associacao Dos Franqueados Da Rede De Lanchonetes Giraffas - Agir - Saúde",
+    "cnpj_norm": "03897802000134",
+    "nome_norm": "ASSOCIACAO DOS FRANQUEADOS DA REDE DE LANCHONETES GIRAFFAS AGIR SAUDE",
+    "consultor": null,
+    "situacao": "new"
+  },
+  {
+    "nome": "Associação Paulista dos Economiários Aposentados (APEA/SP",
+    "cnpj_norm": "55490569000174",
+    "nome_norm": "ASSOCIACAO PAULISTA DOS ECONOMIARIOS APOSENTADOS APEA SP",
+    "consultor": "Marcelo Natal",
+    "situacao": "open"
+  },
+  {
+    "nome": "Sociedade Harmonia De Tenis",
+    "cnpj_norm": "60534047000167",
+    "nome_norm": "SOCIEDADE HARMONIA DE TENIS",
+    "consultor": "Leandro Peralta",
+    "situacao": "visit"
+  },
+  {
+    "nome": "Associação Paulista dos Economiários Aposentados (APEA/SP",
+    "cnpj_norm": "55490569000174",
+    "nome_norm": "ASSOCIACAO PAULISTA DOS ECONOMIARIOS APOSENTADOS APEA SP",
+    "consultor": "Marcelo Natal",
+    "situacao": "study"
+  },
+  {
+    "nome": "Ace-Guarulhos Associacao Comercial e Empresarial de Guarulhos",
+    "cnpj_norm": "44264331000104",
+    "nome_norm": "ACE GUARULHOS ASSOCIACAO COMERCIAL E EMPRESARIAL DE GUARULHOS",
+    "consultor": "Pedro Henrique Jesus",
+    "situacao": "won"
+  },
+  {
+    "nome": "Athié Wohnrath Associados Projetos Construção e Gerenciamento Ltda.",
+    "cnpj_norm": "61379863000106",
+    "nome_norm": "ATHIE WOHNRATH ASSOCIADOS PROJETOS CONSTRUCAO E GERENCIAMENTO LTDA",
+    "consultor": "Pedro Henrique Jesus",
+    "situacao": "in_negotiation"
+  },
+  {
+    "nome": "CROWE MACRO CONTADORES ASSOCIADOS LTDA",
+    "cnpj_norm": "11719486000139",
+    "nome_norm": "CROWE MACRO CONTADORES ASSOCIADOS LTDA",
+    "consultor": "Rhandrie Souza",
+    "situacao": "study"
+  },
+  {
+    "nome": "Genom União Química Farmacêutica Nacional S/A",
+    "cnpj_norm": "60665981000118",
+    "nome_norm": "GENOM UNIAO QUIMICA FARMACEUTICA NACIONAL S A",
+    "consultor": "Guilherme Cabral",
+    "situacao": "visit"
+  },
+  {
+    "nome": "Acav - Associacao Brasileira dos Concessionarios Volkswagen Truck & Bus",
+    "cnpj_norm": "47219928000125",
+    "nome_norm": "ACAV ASSOCIACAO BRASILEIRA DOS CONCESSIONARIOS VOLKSWAGEN TRUCK BUS",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Instituto Educacional MID Ltda,",
+    "cnpj_norm": "05881674000166",
+    "nome_norm": "INSTITUTO EDUCACIONAL MID LTDA",
+    "consultor": "Leticia Santana",
+    "situacao": "won"
+  },
+  {
+    "nome": "Instituto Educacional Ksm Ltda",
+    "cnpj_norm": "04212651000104",
+    "nome_norm": "INSTITUTO EDUCACIONAL KSM LTDA",
+    "consultor": "Leticia Santana",
+    "situacao": "won"
+  },
+  {
+    "nome": "Instituto Educacional Ksm Ltda",
+    "cnpj_norm": "04212651000104",
+    "nome_norm": "INSTITUTO EDUCACIONAL KSM LTDA",
+    "consultor": "Leticia Santana",
+    "situacao": "won"
+  },
+  {
+    "nome": "Associacao Educacional Toledo",
+    "cnpj_norm": "03318018000124",
+    "nome_norm": "ASSOCIACAO EDUCACIONAL TOLEDO",
+    "consultor": "Suelen Pereira",
+    "situacao": "visit"
+  },
+  {
+    "nome": "Lagoa Thermas Clube, Turismo, Lazer E Ecologia",
+    "cnpj_norm": "05620609000187",
+    "nome_norm": "LAGOA THERMAS CLUBE TURISMO LAZER E ECOLOGIA",
+    "consultor": "Wilson Rufino",
+    "situacao": "open"
+  },
+  {
+    "nome": "Instituto Paulista de Estudos e Pesquisas em Oftalmologia - Ipepo",
+    "cnpj_norm": "67187070000171",
+    "nome_norm": "INSTITUTO PAULISTA DE ESTUDOS E PESQUISAS EM OFTALMOLOGIA IPEPO",
+    "consultor": "Patricia Santos",
+    "situacao": "study"
+  },
+  {
+    "nome": "Acav - Associacao Brasileira dos Concessionarios Volkswagen Truck & Bus",
+    "cnpj_norm": "47219928000125",
+    "nome_norm": "ACAV ASSOCIACAO BRASILEIRA DOS CONCESSIONARIOS VOLKSWAGEN TRUCK BUS",
+    "consultor": "Adriano Oliveira",
+    "situacao": "study"
+  },
+  {
+    "nome": "Associacao De Combate Ao Cancer Em Goias",
+    "cnpj_norm": "01585595000157",
+    "nome_norm": "ASSOCIACAO DE COMBATE AO CANCER EM GOIAS",
+    "consultor": "Wilson Rufino",
+    "situacao": "open"
+  },
+  {
+    "nome": "Federação das Indústrias do Estado de São Paulo",
+    "cnpj_norm": "62225933000134",
+    "nome_norm": "FEDERACAO DAS INDUSTRIAS DO ESTADO DE SAO PAULO",
+    "consultor": "Priscila Oliveira",
+    "situacao": "study"
+  },
+  {
+    "nome": "Instituto de Pesquisas Tecnológicas -IPT",
+    "cnpj_norm": "60633674000155",
+    "nome_norm": "INSTITUTO DE PESQUISAS TECNOLOGICAS IPT",
+    "consultor": "Marcelo Natal",
+    "situacao": "lost"
+  },
+  {
+    "nome": "Associação Comercial e Empresarial de Suzano",
+    "cnpj_norm": "44408615000127",
+    "nome_norm": "ASSOCIACAO COMERCIAL E EMPRESARIAL DE SUZANO",
+    "consultor": "Alessandra Baracho",
+    "situacao": "won"
+  },
+  {
+    "nome": "Federação das Indústrias do Estado de São Paulo",
+    "cnpj_norm": "62225933000134",
+    "nome_norm": "FEDERACAO DAS INDUSTRIAS DO ESTADO DE SAO PAULO",
+    "consultor": "Natalia Malatesta",
+    "situacao": "open"
+  },
+  {
+    "nome": "Instituto Nutri Mais Ltda",
+    "cnpj_norm": "45134264000176",
+    "nome_norm": "INSTITUTO NUTRI MAIS LTDA",
+    "consultor": "Adriano Oliveira",
+    "situacao": "lost"
+  },
+  {
+    "nome": "Athié Wohnrath Associados Projetos Construção e Gerenciamento Ltda.",
+    "cnpj_norm": "61379863000106",
+    "nome_norm": "ATHIE WOHNRATH ASSOCIADOS PROJETOS CONSTRUCAO E GERENCIAMENTO LTDA",
+    "consultor": "Pedro Henrique Jesus",
+    "situacao": "won"
+  },
+  {
+    "nome": "Maciel Advogados Associados",
+    "cnpj_norm": "34289956000177",
+    "nome_norm": "MACIEL ADVOGADOS ASSOCIADOS",
+    "consultor": "Fabiana Diniz",
+    "situacao": "open"
+  },
+  {
+    "nome": "Associação Esportiva São José",
+    "cnpj_norm": "60211893000146",
+    "nome_norm": "ASSOCIACAO ESPORTIVA SAO JOSE",
+    "consultor": "Leandro Peralta",
+    "situacao": "won"
+  },
+  {
+    "nome": "Pcjnutricao e instituto excellentiae",
+    "cnpj_norm": "41481793000195",
+    "nome_norm": "PCJNUTRICAO E INSTITUTO EXCELLENTIAE",
+    "consultor": "Adriano Oliveira",
+    "situacao": "lost"
+  },
+  {
+    "nome": "Acav - Associacao Brasileira dos Concessionarios Volkswagen Truck & Bus",
+    "cnpj_norm": "47219928000125",
+    "nome_norm": "ACAV ASSOCIACAO BRASILEIRA DOS CONCESSIONARIOS VOLKSWAGEN TRUCK BUS",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Fundação Instituto de pesquisa e estudo de diagnóstico de imagem - FIDI",
+    "cnpj_norm": "55401178000136",
+    "nome_norm": "FUNDACAO INSTITUTO DE PESQUISA E ESTUDO DE DIAGNOSTICO DE IMAGEM FIDI",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Instituto Prudente De Moraes",
+    "cnpj_norm": "03259308000144",
+    "nome_norm": "INSTITUTO PRUDENTE DE MORAES",
+    "consultor": "Tamires Brito",
+    "situacao": "visit"
+  },
+  {
+    "nome": "Confederacao Brasileira de Basketball",
+    "cnpj_norm": "34265884000128",
+    "nome_norm": "CONFEDERACAO BRASILEIRA DE BASKETBALL",
+    "consultor": "Alessandra Baracho",
+    "situacao": "lost"
+  },
+  {
+    "nome": "ADIAL BRASIL - ASSOCIACAO BRASILEIRA PRO-DESENVOLVIMENTO REGIONAL SUSTENTAVEL",
+    "cnpj_norm": "08929289000130",
+    "nome_norm": "ADIAL BRASIL ASSOCIACAO BRASILEIRA PRO DESENVOLVIMENTO REGIONAL SUSTENTAVEL",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Associacao Comercial, Industrial E Agropecuaria De Buri",
+    "cnpj_norm": "00679135000125",
+    "nome_norm": "ASSOCIACAO COMERCIAL INDUSTRIAL E AGROPECUARIA DE BURI",
+    "consultor": "Alessandra Baracho",
+    "situacao": "won"
+  },
+  {
+    "nome": "Instituto Educacional Nossa Senhora Da Soledade",
+    "cnpj_norm": "14416866000192",
+    "nome_norm": "INSTITUTO EDUCACIONAL NOSSA SENHORA DA SOLEDADE",
+    "consultor": "Jacqueline Carvalho",
+    "situacao": "open"
+  },
+  {
+    "nome": "Federação das Associações Comerciais do Estado de São Paulo",
+    "cnpj_norm": "62876768000180",
+    "nome_norm": "FEDERACAO DAS ASSOCIACOES COMERCIAIS DO ESTADO DE SAO PAULO",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Associação de Pais e Amigos dos Excepcionais de S Paulo",
+    "cnpj_norm": "60502242000105",
+    "nome_norm": "ASSOCIACAO DE PAIS E AMIGOS DOS EXCEPCIONAIS DE S PAULO",
+    "consultor": "Marcia Tiemi",
+    "situacao": "open"
+  },
+  {
+    "nome": "Associação de Pais e Amigos dos Excepcionais de S Paulo",
+    "cnpj_norm": "60502242000105",
+    "nome_norm": "ASSOCIACAO DE PAIS E AMIGOS DOS EXCEPCIONAIS DE S PAULO",
+    "consultor": "Marcia Tiemi",
+    "situacao": "study"
+  },
+  {
+    "nome": "Lojas Uniao 1a99 SA",
+    "cnpj_norm": "07695007007127",
+    "nome_norm": "LOJAS UNIAO 1A99 SA",
+    "consultor": "Janaina Domingues",
+    "situacao": "open"
+  },
+  {
+    "nome": "Cooperativa Uniao Serv dos Taxistas Autonomos de S.p.",
+    "cnpj_norm": "59558411000140",
+    "nome_norm": "COOPERATIVA UNIAO SERV DOS TAXISTAS AUTONOMOS DE S P",
+    "consultor": "Tamires Brito",
+    "situacao": "visit"
+  },
+  {
+    "nome": "Lojas União 1A99",
+    "cnpj_norm": "07695007000114",
+    "nome_norm": "LOJAS UNIAO 1A99",
+    "consultor": "Janaina Domingues",
+    "situacao": "open"
+  },
+  {
+    "nome": "Associacao Dos Fornecedores De Cana De Piracicaba",
+    "cnpj_norm": "54384631000180",
+    "nome_norm": "ASSOCIACAO DOS FORNECEDORES DE CANA DE PIRACICABA",
+    "consultor": "Erika Jesus",
+    "situacao": "visit"
+  },
+  {
+    "nome": "Damasco Penna Engenheiros Associados Ltda",
+    "cnpj_norm": "43463173000159",
+    "nome_norm": "DAMASCO PENNA ENGENHEIROS ASSOCIADOS LTDA",
+    "consultor": "Dalton Gorauskas",
+    "situacao": "study"
+  },
+  {
+    "nome": "Damasco Penna Engenheiros Associados Ltda",
+    "cnpj_norm": "43463173000159",
+    "nome_norm": "DAMASCO PENNA ENGENHEIROS ASSOCIADOS LTDA",
+    "consultor": "Dalton Gorauskas",
+    "situacao": "study"
+  },
+  {
+    "nome": "Instituto Goiano De Oncologia E Hematologia",
+    "cnpj_norm": "01277573000120",
+    "nome_norm": "INSTITUTO GOIANO DE ONCOLOGIA E HEMATOLOGIA",
+    "consultor": "Wilson Rufino",
+    "situacao": "open"
+  },
+  {
+    "nome": "Associação Filhos Do Pai Eterno",
+    "cnpj_norm": "11430844000199",
+    "nome_norm": "ASSOCIACAO FILHOS DO PAI ETERNO",
+    "consultor": "Wilson Rufino",
+    "situacao": "open"
+  },
+  {
+    "nome": "Associação Congregação de Santa Catarina",
+    "cnpj_norm": "60922168000186",
+    "nome_norm": "ASSOCIACAO CONGREGACAO DE SANTA CATARINA",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Associação Congregação de Santa Catarina",
+    "cnpj_norm": "60922168000186",
+    "nome_norm": "ASSOCIACAO CONGREGACAO DE SANTA CATARINA",
+    "consultor": "Carolina Tomotake",
+    "situacao": "study"
+  },
+  {
+    "nome": "Lojas União 1A99",
+    "cnpj_norm": "07695007000114",
+    "nome_norm": "LOJAS UNIAO 1A99",
+    "consultor": "Janaina Domingues",
+    "situacao": "open"
+  },
+  {
+    "nome": "Esporte Clube Bahia S.A.F",
+    "cnpj_norm": "49723699000107",
+    "nome_norm": "ESPORTE CLUBE BAHIA S A F",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Associação Brasileira De Educação E Cultura Abec",
+    "cnpj_norm": "60982352000111",
+    "nome_norm": "ASSOCIACAO BRASILEIRA DE EDUCACAO E CULTURA ABEC",
+    "consultor": "Wilson Rufino",
+    "situacao": "open"
+  },
+  {
+    "nome": "Federação Interfederativa Das Cooperativas De Trabalho Médico Do Estado De Minas Gerais",
+    "cnpj_norm": "19891852000144",
+    "nome_norm": "FEDERACAO INTERFEDERATIVA DAS COOPERATIVAS DE TRABALHO MEDICO DO ESTADO DE MINAS GERAIS",
+    "consultor": "Wilson Rufino",
+    "situacao": "open"
+  },
+  {
+    "nome": "Apc ? Associação Paranaense De Cultura",
+    "cnpj_norm": "76659820000151",
+    "nome_norm": "APC ASSOCIACAO PARANAENSE DE CULTURA",
+    "consultor": "Wilson Rufino",
+    "situacao": "open"
+  },
+  {
+    "nome": "Instituto C&A",
+    "cnpj_norm": "59053991000113",
+    "nome_norm": "INSTITUTO C A",
+    "consultor": "Wilson Rufino",
+    "situacao": "open"
+  },
+  {
+    "nome": "Instituto Lab System De Pesquisas E Ensaios Ltda",
+    "cnpj_norm": "04921401000135",
+    "nome_norm": "INSTITUTO LAB SYSTEM DE PESQUISAS E ENSAIOS LTDA",
+    "consultor": "Wilson Rufino",
+    "situacao": "open"
+  },
+  {
+    "nome": "Sindicato dos Representantes Comerciais e das Empresas de Representação Comercial no Estado de São Paulo)",
+    "cnpj_norm": "60748332000180",
+    "nome_norm": "SINDICATO DOS REPRESENTANTES COMERCIAIS E DAS EMPRESAS DE REPRESENTACAO COMERCIAL NO ESTADO DE SAO PAULO",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Clube dos Marimbas",
+    "cnpj_norm": "33734831000146",
+    "nome_norm": "CLUBE DOS MARIMBAS",
+    "consultor": null,
+    "situacao": "visit"
+  },
+  {
+    "nome": "Thomas Case & Associados Consultoria em Recursos Humanos Ltda.",
+    "cnpj_norm": "04190585000100",
+    "nome_norm": "THOMAS CASE ASSOCIADOS CONSULTORIA EM RECURSOS HUMANOS LTDA",
+    "consultor": "Fabiana Diniz",
+    "situacao": "visited"
+  },
+  {
+    "nome": "Associação Pro - Desenvolvimento Industrial do Est",
+    "cnpj_norm": "00912142000125",
+    "nome_norm": "ASSOCIACAO PRO DESENVOLVIMENTO INDUSTRIAL DO EST",
+    "consultor": null,
+    "situacao": "visit"
+  },
+  {
+    "nome": "Esporte Clube Bahia S.A.F",
+    "cnpj_norm": "49723699000107",
+    "nome_norm": "ESPORTE CLUBE BAHIA S A F",
+    "consultor": "Thamires Rosa",
+    "situacao": "open"
+  },
+  {
+    "nome": "Associação Brasileira de Supermercados",
+    "cnpj_norm": "62360268000191",
+    "nome_norm": "ASSOCIACAO BRASILEIRA DE SUPERMERCADOS",
+    "consultor": "Dalton Gorauskas",
+    "situacao": "visit"
+  },
+  {
+    "nome": "Associacao Brasileira de Atac e Distr de Prod Ind Abad",
+    "cnpj_norm": "49086564000188",
+    "nome_norm": "ASSOCIACAO BRASILEIRA DE ATAC E DISTR DE PROD IND ABAD",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Associação Brasileira de Normas Tecnicas - ABNT",
+    "cnpj_norm": "33402892000106",
+    "nome_norm": "ASSOCIACAO BRASILEIRA DE NORMAS TECNICAS ABNT",
+    "consultor": null,
+    "situacao": "visit"
+  },
+  {
+    "nome": "Associação Brasileira de Normas Tecnicas - ABNT",
+    "cnpj_norm": "33402892000106",
+    "nome_norm": "ASSOCIACAO BRASILEIRA DE NORMAS TECNICAS ABNT",
+    "consultor": "Marcelo Natal",
+    "situacao": "open"
+  },
+  {
+    "nome": "Instituto Nacional De Desenvolvimento Social E Humano - Indsh",
+    "cnpj_norm": "23453830000501",
+    "nome_norm": "INSTITUTO NACIONAL DE DESENVOLVIMENTO SOCIAL E HUMANO INDSH",
+    "consultor": "Wilson Rufino",
+    "situacao": "open"
+  },
+  {
+    "nome": "Instituto das Irmas da Santa Cruz",
+    "cnpj_norm": "57035933000131",
+    "nome_norm": "INSTITUTO DAS IRMAS DA SANTA CRUZ",
+    "consultor": "Marcelo Natal",
+    "situacao": "open"
+  },
+  {
+    "nome": "Papaiz Associados Diagnósticos por Imagem S.a",
+    "cnpj_norm": "62020367000124",
+    "nome_norm": "PAPAIZ ASSOCIADOS DIAGNOSTICOS POR IMAGEM S A",
+    "consultor": "Wilson Rufino",
+    "situacao": "study"
+  },
+  {
+    "nome": "Instituto Paulista de Estudos e Pesquisas em Oftalmologia - Ipepo",
+    "cnpj_norm": "67187070000171",
+    "nome_norm": "INSTITUTO PAULISTA DE ESTUDOS E PESQUISAS EM OFTALMOLOGIA IPEPO",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Instituto J&F",
+    "cnpj_norm": "10619284000152",
+    "nome_norm": "INSTITUTO J F",
+    "consultor": "Maria Marcela Oliveira",
+    "situacao": "visited"
+  },
+  {
+    "nome": "Instituto Paulista de Estudos e Pesquisas em Oftalmologia - Ipepo",
+    "cnpj_norm": "67187070000171",
+    "nome_norm": "INSTITUTO PAULISTA DE ESTUDOS E PESQUISAS EM OFTALMOLOGIA IPEPO",
+    "consultor": "Tiago Souza",
+    "situacao": "won"
+  },
+  {
+    "nome": "Opice Blum e Bruno Advogados Associados",
+    "cnpj_norm": "02159211000105",
+    "nome_norm": "OPICE BLUM E BRUNO ADVOGADOS ASSOCIADOS",
+    "consultor": "Marcelo Natal",
+    "situacao": "open"
+  },
+  {
+    "nome": "Principe & Carvalho Consultores Associados Ltda",
+    "cnpj_norm": "52734710000149",
+    "nome_norm": "PRINCIPE CARVALHO CONSULTORES ASSOCIADOS LTDA",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "ABBC - Associação Brasileira de Bancos",
+    "cnpj_norm": "52636016000199",
+    "nome_norm": "ABBC ASSOCIACAO BRASILEIRA DE BANCOS",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Instituto de Pesquisa Ambiental da Amazonia",
+    "cnpj_norm": "00627727000101",
+    "nome_norm": "INSTITUTO DE PESQUISA AMBIENTAL DA AMAZONIA",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Hanada Advogados Associados",
+    "cnpj_norm": "02657519000172",
+    "nome_norm": "HANADA ADVOGADOS ASSOCIADOS",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Instituto Paulista de Estudos e Pesquisas em Oftalmologia - Ipepo",
+    "cnpj_norm": "67187070000171",
+    "nome_norm": "INSTITUTO PAULISTA DE ESTUDOS E PESQUISAS EM OFTALMOLOGIA IPEPO",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Associacao Do Fundo De Promocoes Coletivas Do Shopping Uberaba",
+    "cnpj_norm": "49298240000103",
+    "nome_norm": "ASSOCIACAO DO FUNDO DE PROMOCOES COLETIVAS DO SHOPPING UBERABA",
+    "consultor": "Wilson Rufino",
+    "situacao": "open"
+  },
+  {
+    "nome": "Associacao Dos Empreendedores Do Pcs",
+    "cnpj_norm": "29224131000134",
+    "nome_norm": "ASSOCIACAO DOS EMPREENDEDORES DO PCS",
+    "consultor": "Wilson Rufino",
+    "situacao": "open"
+  },
+  {
+    "nome": "Associacao Do Fundo De Promocoes Coletivas Do Shopping Uberlandia",
+    "cnpj_norm": "47887213000140",
+    "nome_norm": "ASSOCIACAO DO FUNDO DE PROMOCOES COLETIVAS DO SHOPPING UBERLANDIA",
+    "consultor": "Wilson Rufino",
+    "situacao": "open"
+  },
+  {
+    "nome": "Associação Do Fundo De Promoções Coletivas Do Via Verde Shopping",
+    "cnpj_norm": "27606436000185",
+    "nome_norm": "ASSOCIACAO DO FUNDO DE PROMOCOES COLETIVAS DO VIA VERDE SHOPPING",
+    "consultor": "Wilson Rufino",
+    "situacao": "open"
+  },
+  {
+    "nome": "Associacao Do Fundo De Promocoes Coletivas Do Bossa Nova Mall",
+    "cnpj_norm": "30621903000150",
+    "nome_norm": "ASSOCIACAO DO FUNDO DE PROMOCOES COLETIVAS DO BOSSA NOVA MALL",
+    "consultor": "Wilson Rufino",
+    "situacao": "open"
+  },
+  {
+    "nome": "Associacao Para O Fundo De Promocao E Propaganda Do Shopping Center Granja Vianna",
+    "cnpj_norm": "12426398000101",
+    "nome_norm": "ASSOCIACAO PARA O FUNDO DE PROMOCAO E PROPAGANDA DO SHOPPING CENTER GRANJA VIANNA",
+    "consultor": "Wilson Rufino",
+    "situacao": "open"
+  },
+  {
+    "nome": "Associacao Dos Empreendedores Do Bnm (Aebnm)",
+    "cnpj_norm": "34519004000100",
+    "nome_norm": "ASSOCIACAO DOS EMPREENDEDORES DO BNM AEBNM",
+    "consultor": "Wilson Rufino",
+    "situacao": "open"
+  },
+  {
+    "nome": "Associacao Dos Empreendedores Do Shopping Metro Tucuruvi",
+    "cnpj_norm": "34868212000107",
+    "nome_norm": "ASSOCIACAO DOS EMPREENDEDORES DO SHOPPING METRO TUCURUVI",
+    "consultor": "Wilson Rufino",
+    "situacao": "open"
+  },
+  {
+    "nome": "Associacao Do Fundo De Promocoes Coletivas Do Shopping Patio Maceio",
+    "cnpj_norm": "27984263000139",
+    "nome_norm": "ASSOCIACAO DO FUNDO DE PROMOCOES COLETIVAS DO SHOPPING PATIO MACEIO",
+    "consultor": "Wilson Rufino",
+    "situacao": "open"
+  },
+  {
+    "nome": "Associacao Do Fundo De Promocoes Coletivas Do Patio Ciane Shopping",
+    "cnpj_norm": "51531486000125",
+    "nome_norm": "ASSOCIACAO DO FUNDO DE PROMOCOES COLETIVAS DO PATIO CIANE SHOPPING",
+    "consultor": "Wilson Rufino",
+    "situacao": "open"
+  },
+  {
+    "nome": "Associação Do Fundo De Promoções Coletivas Do Shopping Metro Tucuruvi",
+    "cnpj_norm": "42335005000115",
+    "nome_norm": "ASSOCIACAO DO FUNDO DE PROMOCOES COLETIVAS DO SHOPPING METRO TUCURUVI",
+    "consultor": "Wilson Rufino",
+    "situacao": "open"
+  },
+  {
+    "nome": "Instituto Profarma De Responsabilidade Social",
+    "cnpj_norm": "08306537000196",
+    "nome_norm": "INSTITUTO PROFARMA DE RESPONSABILIDADE SOCIAL",
+    "consultor": "Wilson Rufino",
+    "situacao": "open"
+  },
+  {
+    "nome": "Drogaria Uniao Do Alcantara Ltda",
+    "cnpj_norm": "04660621000152",
+    "nome_norm": "DROGARIA UNIAO DO ALCANTARA LTDA",
+    "consultor": "Wilson Rufino",
+    "situacao": "open"
+  },
+  {
+    "nome": "Associação Desportiva Classista Do Grupo Basf",
+    "cnpj_norm": "48772594000185",
+    "nome_norm": "ASSOCIACAO DESPORTIVA CLASSISTA DO GRUPO BASF",
+    "consultor": "Wilson Rufino",
+    "situacao": "open"
+  },
+  {
+    "nome": "Instituto De Pesquisa Pensi Sandra Mutarelli Setubal",
+    "cnpj_norm": "17375447000148",
+    "nome_norm": "INSTITUTO DE PESQUISA PENSI SANDRA MUTARELLI SETUBAL",
+    "consultor": "Wilson Rufino",
+    "situacao": "open"
+  },
+  {
+    "nome": "Provet Instituto Brasileiro De Diagnosticos E Especialidades Veterinarias Ltda",
+    "cnpj_norm": "56994981000194",
+    "nome_norm": "PROVET INSTITUTO BRASILEIRO DE DIAGNOSTICOS E ESPECIALIDADES VETERINARIAS LTDA",
+    "consultor": "Wilson Rufino",
+    "situacao": "open"
+  },
+  {
+    "nome": "Instituto Gridtech De Pesquisa E Desenvolvimento",
+    "cnpj_norm": "42263379000172",
+    "nome_norm": "INSTITUTO GRIDTECH DE PESQUISA E DESENVOLVIMENTO",
+    "consultor": "Wilson Rufino",
+    "situacao": "open"
+  },
+  {
+    "nome": "Associacao De Marketing E Publicidade Da Rede De Franquia Constance",
+    "cnpj_norm": "26614256000182",
+    "nome_norm": "ASSOCIACAO DE MARKETING E PUBLICIDADE DA REDE DE FRANQUIA CONSTANCE",
+    "consultor": "Wilson Rufino",
+    "situacao": "open"
+  },
+  {
+    "nome": "Thermas Di Roma Hotel Clube Secretaria",
+    "cnpj_norm": "02167740000142",
+    "nome_norm": "THERMAS DI ROMA HOTEL CLUBE SECRETARIA",
+    "consultor": "Wilson Rufino",
+    "situacao": "open"
+  },
+  {
+    "nome": "Instituto Estrada Real - Ier",
+    "cnpj_norm": "03655675000167",
+    "nome_norm": "INSTITUTO ESTRADA REAL IER",
+    "consultor": "Wilson Rufino",
+    "situacao": "open"
+  },
+  {
+    "nome": "Instituto Evaldo Lodi - Iel - Núcleo Minas Gerais",
+    "cnpj_norm": "17422056000137",
+    "nome_norm": "INSTITUTO EVALDO LODI IEL NUCLEO MINAS GERAIS",
+    "consultor": "Wilson Rufino",
+    "situacao": "open"
+  },
+  {
+    "nome": "Instituto Socioambiental Invepar",
+    "cnpj_norm": "04274137000195",
+    "nome_norm": "INSTITUTO SOCIOAMBIENTAL INVEPAR",
+    "consultor": "Wilson Rufino",
+    "situacao": "open"
+  },
+  {
+    "nome": "Federacao Das Industrias Ac",
+    "cnpj_norm": "14366215000135",
+    "nome_norm": "FEDERACAO DAS INDUSTRIAS AC",
+    "consultor": "Wilson Rufino",
+    "situacao": "open"
+  },
+  {
+    "nome": "Instituto Telemar",
+    "cnpj_norm": "04256109000145",
+    "nome_norm": "INSTITUTO TELEMAR",
+    "consultor": "Wilson Rufino",
+    "situacao": "open"
+  },
+  {
+    "nome": "Instituto Pequenas Missionárias Maria Imaculada",
+    "cnpj_norm": "60194990000844",
+    "nome_norm": "INSTITUTO PEQUENAS MISSIONARIAS MARIA IMACULADA",
+    "consultor": "Wilson Rufino",
+    "situacao": "open"
+  },
+  {
+    "nome": "Federação Das Indústrias Estado Alagoas - Fieal",
+    "cnpj_norm": "12316295000199",
+    "nome_norm": "FEDERACAO DAS INDUSTRIAS ESTADO ALAGOAS FIEAL",
+    "consultor": "Wilson Rufino",
+    "situacao": "open"
+  },
+  {
+    "nome": "Associação Do Shopping Hortolândia",
+    "cnpj_norm": "14586624000147",
+    "nome_norm": "ASSOCIACAO DO SHOPPING HORTOLANDIA",
+    "consultor": "Wilson Rufino",
+    "situacao": "open"
+  },
+  {
+    "nome": "Instituto Euvaldo Lodi ? Núcleo Do Ceará ? Iel/Ce",
+    "cnpj_norm": "07084577000178",
+    "nome_norm": "INSTITUTO EUVALDO LODI NUCLEO DO CEARA IEL CE",
+    "consultor": "Wilson Rufino",
+    "situacao": "open"
+  },
+  {
+    "nome": "Instituto Ultra",
+    "cnpj_norm": "61603635000178",
+    "nome_norm": "INSTITUTO ULTRA",
+    "consultor": "Wilson Rufino",
+    "situacao": "open"
+  },
+  {
+    "nome": "Caixa De Assistência E Previdência Fábio De Araújo Motta",
+    "cnpj_norm": "18742833000193",
+    "nome_norm": "CAIXA DE ASSISTENCIA E PREVIDENCIA FABIO DE ARAUJO MOTTA",
+    "consultor": "Wilson Rufino",
+    "situacao": "open"
+  },
+  {
+    "nome": "Associacao Recreativa Grupo Tomazini - Argt",
+    "cnpj_norm": "08045993000120",
+    "nome_norm": "ASSOCIACAO RECREATIVA GRUPO TOMAZINI ARGT",
+    "consultor": "Wilson Rufino",
+    "situacao": "open"
+  },
+  {
+    "nome": "Instituto Euvaldo Lodi",
+    "cnpj_norm": "15411218000106",
+    "nome_norm": "INSTITUTO EUVALDO LODI",
+    "consultor": "Wilson Rufino",
+    "situacao": "open"
+  },
+  {
+    "nome": "Núcleo Regional Do Instituto Euvaldo Lodi No Estado Do Rio Grande Do Sul ? Iel/Rs",
+    "cnpj_norm": "92998947000151",
+    "nome_norm": "NUCLEO REGIONAL DO INSTITUTO EUVALDO LODI NO ESTADO DO RIO GRANDE DO SUL IEL RS",
+    "consultor": "Wilson Rufino",
+    "situacao": "open"
+  },
+  {
+    "nome": "Instituto Euvaldo Lodi - Núcleo Central - Iel/Nc",
+    "cnpj_norm": "33938861000174",
+    "nome_norm": "INSTITUTO EUVALDO LODI NUCLEO CENTRAL IEL NC",
+    "consultor": "Wilson Rufino",
+    "situacao": "open"
+  },
+  {
+    "nome": "Serma ? Associação Dos Usuários De Equipamentos De Processamento De Dados E Serviços Correlatos",
+    "cnpj_norm": "61601951000100",
+    "nome_norm": "SERMA ASSOCIACAO DOS USUARIOS DE EQUIPAMENTOS DE PROCESSAMENTO DE DADOS E SERVICOS CORRELATOS",
+    "consultor": "Wilson Rufino",
+    "situacao": "open"
+  },
+  {
+    "nome": "Cosin & Associados Consultoria E Servicos De Informatica S/A.",
+    "cnpj_norm": "07606234000126",
+    "nome_norm": "COSIN ASSOCIADOS CONSULTORIA E SERVICOS DE INFORMATICA S A",
+    "consultor": "Wilson Rufino",
+    "situacao": "open"
+  },
+  {
+    "nome": "Std2-Serviço - Icc ? Instituto Criança Cidadã",
+    "cnpj_norm": "03205769000134",
+    "nome_norm": "STD2 SERVICO ICC INSTITUTO CRIANCA CIDADA",
+    "consultor": "Wilson Rufino",
+    "situacao": "open"
+  },
+  {
+    "nome": "Instituto Andre Franco Vive",
+    "cnpj_norm": "07122453000130",
+    "nome_norm": "INSTITUTO ANDRE FRANCO VIVE",
+    "consultor": "Wilson Rufino",
+    "situacao": "open"
+  },
+  {
+    "nome": "Veirano E Advogados Associados",
+    "cnpj_norm": "03826947000144",
+    "nome_norm": "VEIRANO E ADVOGADOS ASSOCIADOS",
+    "consultor": "Wilson Rufino",
+    "situacao": "open"
+  },
+  {
+    "nome": "Veirano Advogados Associados",
+    "cnpj_norm": "97130371000120",
+    "nome_norm": "VEIRANO ADVOGADOS ASSOCIADOS",
+    "consultor": "Wilson Rufino",
+    "situacao": "open"
+  },
+  {
+    "nome": "Instituto Euvaldo Lodi - Iel",
+    "cnpj_norm": "09324352000177",
+    "nome_norm": "INSTITUTO EUVALDO LODI IEL",
+    "consultor": "Wilson Rufino",
+    "situacao": "open"
+  },
+  {
+    "nome": "Federacao Das Industrias Do Estado De Mato Grosso Sul",
+    "cnpj_norm": "15461767000195",
+    "nome_norm": "FEDERACAO DAS INDUSTRIAS DO ESTADO DE MATO GROSSO SUL",
+    "consultor": "Wilson Rufino",
+    "situacao": "open"
+  },
+  {
+    "nome": "Associação Dos Condominos Na Fração Ideias De Terreno E Nas Unidades Em Construção Do Edificio Enseada Inn",
+    "cnpj_norm": "16589852000104",
+    "nome_norm": "ASSOCIACAO DOS CONDOMINOS NA FRACAO IDEIAS DE TERRENO E NAS UNIDADES EM CONSTRUCAO DO EDIFICIO ENSEADA INN",
+    "consultor": "Wilson Rufino",
+    "situacao": "open"
+  },
+  {
+    "nome": "União Catarinense De Educação",
+    "cnpj_norm": "84433275000109",
+    "nome_norm": "UNIAO CATARINENSE DE EDUCACAO",
+    "consultor": "Wilson Rufino",
+    "situacao": "open"
+  },
+  {
+    "nome": "Acbeu Associacao Cultural Brasil Estados Unidos",
+    "cnpj_norm": "15179690000165",
+    "nome_norm": "ACBEU ASSOCIACAO CULTURAL BRASIL ESTADOS UNIDOS",
+    "consultor": "Wilson Rufino",
+    "situacao": "open"
+  },
+  {
+    "nome": "União Leste Brasileira Da Igreja Adventista Do Sétimo Dia",
+    "cnpj_norm": "17261509000190",
+    "nome_norm": "UNIAO LESTE BRASILEIRA DA IGREJA ADVENTISTA DO SETIMO DIA",
+    "consultor": "Gisele Costa",
+    "situacao": "open"
+  },
+  {
+    "nome": "Associacao Clube Wave 1",
+    "cnpj_norm": "48221348000135",
+    "nome_norm": "ASSOCIACAO CLUBE WAVE 1",
+    "consultor": "Wilson Rufino",
+    "situacao": "open"
+  },
+  {
+    "nome": "Sociedade Harmonia De Tenis",
+    "cnpj_norm": "60534047000167",
+    "nome_norm": "SOCIEDADE HARMONIA DE TENIS",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Papaiz Associados Diagnósticos por Imagem S.a",
+    "cnpj_norm": "62020367000124",
+    "nome_norm": "PAPAIZ ASSOCIADOS DIAGNOSTICOS POR IMAGEM S A",
+    "consultor": "Wilson Rufino",
+    "situacao": "won"
+  },
+  {
+    "nome": "Associação Lar da Benção Divina",
+    "cnpj_norm": "62702550000100",
+    "nome_norm": "ASSOCIACAO LAR DA BENCAO DIVINA",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Associação Cultural para Desenvolvimento Educacional Unindo Forças",
+    "cnpj_norm": "58932419000161",
+    "nome_norm": "ASSOCIACAO CULTURAL PARA DESENVOLVIMENTO EDUCACIONAL UNINDO FORCAS",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Associação de Pais e Amigos dos Excepcionais de S Paulo",
+    "cnpj_norm": "60502242000105",
+    "nome_norm": "ASSOCIACAO DE PAIS E AMIGOS DOS EXCEPCIONAIS DE S PAULO",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Instituto Educacional Nossa Senhora Da Soledade",
+    "cnpj_norm": "14416866000192",
+    "nome_norm": "INSTITUTO EDUCACIONAL NOSSA SENHORA DA SOLEDADE",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Instituto Paulista de Estudos e Pesquisas em Oftalmologia - Ipepo",
+    "cnpj_norm": "67187070000171",
+    "nome_norm": "INSTITUTO PAULISTA DE ESTUDOS E PESQUISAS EM OFTALMOLOGIA IPEPO",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Anhembi Tenis Clube",
+    "cnpj_norm": "62066279000163",
+    "nome_norm": "ANHEMBI TENIS CLUBE",
+    "consultor": "Leandro Peralta",
+    "situacao": "visit"
+  },
+  {
+    "nome": "Associação Congregação de Santa Catarina",
+    "cnpj_norm": "60922168000186",
+    "nome_norm": "ASSOCIACAO CONGREGACAO DE SANTA CATARINA",
+    "consultor": "Valeria Martinez",
+    "situacao": "visited"
+  },
+  {
+    "nome": "Instituto Educacional Sergio Moser",
+    "cnpj_norm": "27970269000157",
+    "nome_norm": "INSTITUTO EDUCACIONAL SERGIO MOSER",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Federação Das Unimeds Do Estado De Minas Gerais",
+    "cnpj_norm": "19891852000144",
+    "nome_norm": "FEDERACAO DAS UNIMEDS DO ESTADO DE MINAS GERAIS",
+    "consultor": "Wilson Rufino",
+    "situacao": "study"
+  },
+  {
+    "nome": "Instituto Educacional Nossa Senhora Da Soledade",
+    "cnpj_norm": "14416866000192",
+    "nome_norm": "INSTITUTO EDUCACIONAL NOSSA SENHORA DA SOLEDADE",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Federação das Indústrias do Estado de São Paulo",
+    "cnpj_norm": "62225933000134",
+    "nome_norm": "FEDERACAO DAS INDUSTRIAS DO ESTADO DE SAO PAULO",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Associação Paulista de Cirurgiões Dentista",
+    "cnpj_norm": "47331822000119",
+    "nome_norm": "ASSOCIACAO PAULISTA DE CIRURGIOES DENTISTA",
+    "consultor": "Fabiana Diniz",
+    "situacao": "open"
+  },
+  {
+    "nome": "ASSOCIACAO FUNDO DE INCENTIVO A PESQUISA",
+    "cnpj_norm": "47673793000173",
+    "nome_norm": "ASSOCIACAO FUNDO DE INCENTIVO A PESQUISA",
+    "consultor": "Aline Malta",
+    "situacao": "visit"
+  },
+  {
+    "nome": "ACISE - Associação Comercial de Embu das Artes",
+    "cnpj_norm": "49672462000144",
+    "nome_norm": "ACISE ASSOCIACAO COMERCIAL DE EMBU DAS ARTES",
+    "consultor": "Alessandra Baracho",
+    "situacao": "won"
+  },
+  {
+    "nome": "Instituto de Pesquisa Ambiental da Amazonia",
+    "cnpj_norm": "00627727000101",
+    "nome_norm": "INSTITUTO DE PESQUISA AMBIENTAL DA AMAZONIA",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Instituto Educacional Nossa Senhora Da Soledade",
+    "cnpj_norm": "14416866000192",
+    "nome_norm": "INSTITUTO EDUCACIONAL NOSSA SENHORA DA SOLEDADE",
+    "consultor": "Jacqueline Carvalho",
+    "situacao": "in_negotiation"
+  },
+  {
+    "nome": "Federação das Associações Comerciais do Estado de São Paulo",
+    "cnpj_norm": "62876768000180",
+    "nome_norm": "FEDERACAO DAS ASSOCIACOES COMERCIAIS DO ESTADO DE SAO PAULO",
+    "consultor": "Valeria Martinez",
+    "situacao": "won"
+  },
+  {
+    "nome": "Instituto Educacional Nossa Senhora Da Soledade",
+    "cnpj_norm": "14416866000192",
+    "nome_norm": "INSTITUTO EDUCACIONAL NOSSA SENHORA DA SOLEDADE",
+    "consultor": "Natalia Malatesta",
+    "situacao": "won"
+  },
+  {
+    "nome": "INSTITUTO MATOGROSSENSE DE ODONTOLOGIA - NOVA XAVANTINA LTDA",
+    "cnpj_norm": "11534030000102",
+    "nome_norm": "INSTITUTO MATOGROSSENSE DE ODONTOLOGIA NOVA XAVANTINA LTDA",
+    "consultor": "Valeria Martinez",
+    "situacao": "open"
+  },
+  {
+    "nome": "Instituto de Pesquisa Ambiental da Amazonia",
+    "cnpj_norm": "00627727000101",
+    "nome_norm": "INSTITUTO DE PESQUISA AMBIENTAL DA AMAZONIA",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Vendrame Consultores Associados Ltda",
+    "cnpj_norm": "03175843000117",
+    "nome_norm": "VENDRAME CONSULTORES ASSOCIADOS LTDA",
+    "consultor": null,
+    "situacao": "open"
+  },
+  {
+    "nome": "Instituto de Pesquisa Ambiental da Amazonia",
+    "cnpj_norm": "00627727000101",
+    "nome_norm": "INSTITUTO DE PESQUISA AMBIENTAL DA AMAZONIA",
+    "consultor": "Francinaldo Benicio",
+    "situacao": "open"
+  },
+  {
+    "nome": "Federação das Indústrias do Estado de São Paulo",
+    "cnpj_norm": "62225933000134",
+    "nome_norm": "FEDERACAO DAS INDUSTRIAS DO ESTADO DE SAO PAULO",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Federação das Indústrias do Estado de São Paulo",
+    "cnpj_norm": "62225933000134",
+    "nome_norm": "FEDERACAO DAS INDUSTRIAS DO ESTADO DE SAO PAULO",
+    "consultor": "Lucas Martins",
+    "situacao": "study"
+  },
+  {
+    "nome": "Associação de Pais e Amigos dos Excepcionais de S Paulo",
+    "cnpj_norm": "60502242000105",
+    "nome_norm": "ASSOCIACAO DE PAIS E AMIGOS DOS EXCEPCIONAIS DE S PAULO",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Instituto Vedacit",
+    "cnpj_norm": "28276187000170",
+    "nome_norm": "INSTITUTO VEDACIT",
+    "consultor": "Leandro Peralta",
+    "situacao": "visited"
+  },
+  {
+    "nome": "Lojas Uniao 1a99 SA",
+    "cnpj_norm": "07695007007127",
+    "nome_norm": "LOJAS UNIAO 1A99 SA",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Federação das Indústrias do Estado de São Paulo",
+    "cnpj_norm": "62225933000134",
+    "nome_norm": "FEDERACAO DAS INDUSTRIAS DO ESTADO DE SAO PAULO",
+    "consultor": "Lucas Martins",
+    "situacao": "study"
+  },
+  {
+    "nome": "Federação das Indústrias do Estado de São Paulo",
+    "cnpj_norm": "62225933000134",
+    "nome_norm": "FEDERACAO DAS INDUSTRIAS DO ESTADO DE SAO PAULO",
+    "consultor": "Lucas Martins",
+    "situacao": "study"
+  },
+  {
+    "nome": "Lojas Uniao 1a99 SA",
+    "cnpj_norm": "07695007007127",
+    "nome_norm": "LOJAS UNIAO 1A99 SA",
+    "consultor": "Claudia Rodrigues",
+    "situacao": "won"
+  },
+  {
+    "nome": "Instituto Sao Paulo de Desenvolvimento Organizacional LTDA",
+    "cnpj_norm": "56929953000193",
+    "nome_norm": "INSTITUTO SAO PAULO DE DESENVOLVIMENTO ORGANIZACIONAL LTDA",
+    "consultor": null,
+    "situacao": "visit"
+  },
+  {
+    "nome": "Federação das Indústrias do Estado de São Paulo",
+    "cnpj_norm": "62225933000134",
+    "nome_norm": "FEDERACAO DAS INDUSTRIAS DO ESTADO DE SAO PAULO",
+    "consultor": "Lucas Martins",
+    "situacao": "study"
+  },
+  {
+    "nome": "Instituto De Gestao Educacional E Valor",
+    "cnpj_norm": "28413401003701",
+    "nome_norm": "INSTITUTO DE GESTAO EDUCACIONAL E VALOR",
+    "consultor": "Thalita Avila",
+    "situacao": "open"
+  },
+  {
+    "nome": "Sidia Instituto De Ciencia E Tecnologia",
+    "cnpj_norm": "05994459000171",
+    "nome_norm": "SIDIA INSTITUTO DE CIENCIA E TECNOLOGIA",
+    "consultor": "Thalita Avila",
+    "situacao": "open"
+  },
+  {
+    "nome": "Associacao Dos Procuradores Do Estado Do",
+    "cnpj_norm": "04804795000141",
+    "nome_norm": "ASSOCIACAO DOS PROCURADORES DO ESTADO DO",
+    "consultor": "Thalita Avila",
+    "situacao": "open"
+  },
+  {
+    "nome": "Athié Wohnrath Associados Projetos Construção e Gerenciamento Ltda.",
+    "cnpj_norm": "61379863000106",
+    "nome_norm": "ATHIE WOHNRATH ASSOCIADOS PROJETOS CONSTRUCAO E GERENCIAMENTO LTDA",
+    "consultor": "Pedro Henrique Jesus",
+    "situacao": "won"
+  },
+  {
+    "nome": "Federação das Associações Comerciais do Estado de São Paulo",
+    "cnpj_norm": "62876768000180",
+    "nome_norm": "FEDERACAO DAS ASSOCIACOES COMERCIAIS DO ESTADO DE SAO PAULO",
+    "consultor": "Valeria Martinez",
+    "situacao": "won"
+  },
+  {
+    "nome": "Lojas União 1A99",
+    "cnpj_norm": "07695007000114",
+    "nome_norm": "LOJAS UNIAO 1A99",
+    "consultor": "Claudia Rodrigues",
+    "situacao": "won"
+  },
+  {
+    "nome": "Lojas União 1A99",
+    "cnpj_norm": "07695007000114",
+    "nome_norm": "LOJAS UNIAO 1A99",
+    "consultor": "Claudia Rodrigues",
+    "situacao": "won"
+  },
+  {
+    "nome": "Associação Comercial e Empresarial de Osasco",
+    "cnpj_norm": "73074098000103",
+    "nome_norm": "ASSOCIACAO COMERCIAL E EMPRESARIAL DE OSASCO",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Serveng Civilsan S a Empresas Associadas de Engenharia",
+    "cnpj_norm": "48540421000131",
+    "nome_norm": "SERVENG CIVILSAN S A EMPRESAS ASSOCIADAS DE ENGENHARIA",
+    "consultor": "Leandro Peralta",
+    "situacao": "visit"
+  },
+  {
+    "nome": "Lojas União 1A99",
+    "cnpj_norm": "07695007000114",
+    "nome_norm": "LOJAS UNIAO 1A99",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Lojas Uniao 1a99 SA",
+    "cnpj_norm": "07695007007127",
+    "nome_norm": "LOJAS UNIAO 1A99 SA",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Lojas Uniao 1a99 SA",
+    "cnpj_norm": "07695007007127",
+    "nome_norm": "LOJAS UNIAO 1A99 SA",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Jose Mauricio Machado E Associados Advogados E Consultores Juridicos",
+    "cnpj_norm": "65085243000115",
+    "nome_norm": "JOSE MAURICIO MACHADO E ASSOCIADOS ADVOGADOS E CONSULTORES JURIDICOS",
+    "consultor": "Leandro Peralta",
+    "situacao": "visited"
+  },
+  {
+    "nome": "Associação Cultura Inglesa",
+    "cnpj_norm": "61793907000140",
+    "nome_norm": "ASSOCIACAO CULTURA INGLESA",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Ifb - Instituto De Fosfatos Biológicos",
+    "cnpj_norm": "02690194000120",
+    "nome_norm": "IFB INSTITUTO DE FOSFATOS BIOLOGICOS",
+    "consultor": "Wilson Rufino",
+    "situacao": "open"
+  },
+  {
+    "nome": "Associacao Evangelica Beneficente De Minas Gerais-Aebmg",
+    "cnpj_norm": "17214743000167",
+    "nome_norm": "ASSOCIACAO EVANGELICA BENEFICENTE DE MINAS GERAIS AEBMG",
+    "consultor": "Wilson Rufino",
+    "situacao": "open"
+  },
+  {
+    "nome": "Associação De Combate Ao Câncer Em Goiás (Accg)",
+    "cnpj_norm": "01585595000157",
+    "nome_norm": "ASSOCIACAO DE COMBATE AO CANCER EM GOIAS ACCG",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Fiergs - Federação Das Indústrias Do Rio Grande Do Sul",
+    "cnpj_norm": "03775159000176",
+    "nome_norm": "FIERGS FEDERACAO DAS INDUSTRIAS DO RIO GRANDE DO SUL",
+    "consultor": "Wilson Rufino",
+    "situacao": "open"
+  },
+  {
+    "nome": "Albieri E Associados",
+    "cnpj_norm": "16936252000167",
+    "nome_norm": "ALBIERI E ASSOCIADOS",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Lojas União 1A99",
+    "cnpj_norm": "07695007000114",
+    "nome_norm": "LOJAS UNIAO 1A99",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Federação Das Industrias Do Estado De Rondônia - Fiero",
+    "cnpj_norm": "14661557000188",
+    "nome_norm": "FEDERACAO DAS INDUSTRIAS DO ESTADO DE RONDONIA FIERO",
+    "consultor": "Wilson Rufino",
+    "situacao": "open"
+  },
+  {
+    "nome": "FEDERACAO INTERF. DAS COOP. DE TRABALHO MEDICO DO ESTADO DE MINAS GERAIS",
+    "cnpj_norm": "19891852000144",
+    "nome_norm": "FEDERACAO INTERF DAS COOP DE TRABALHO MEDICO DO ESTADO DE MINAS GERAIS",
+    "consultor": "Wilson Rufino",
+    "situacao": "study"
+  },
+  {
+    "nome": "Instituto Gerando Falcões",
+    "cnpj_norm": "18463148000128",
+    "nome_norm": "INSTITUTO GERANDO FALCOES",
+    "consultor": "Luis Gustavo Giuliacci",
+    "situacao": "visited"
+  },
+  {
+    "nome": "Clube Provida",
+    "cnpj_norm": "50804616000193",
+    "nome_norm": "CLUBE PROVIDA",
+    "consultor": "Wilson Rufino",
+    "situacao": "open"
+  },
+  {
+    "nome": "Federacao Das Unimeds Da Amazonia - Cnpj 84112481001199",
+    "cnpj_norm": "84112481001199",
+    "nome_norm": "FEDERACAO DAS UNIMEDS DA AMAZONIA CNPJ 84112481001199",
+    "consultor": "Wilson Rufino",
+    "situacao": "open"
+  },
+  {
+    "nome": "Federacao Das Unimeds Da Amazonia - Cnpj 84112481001008",
+    "cnpj_norm": "84112481001008",
+    "nome_norm": "FEDERACAO DAS UNIMEDS DA AMAZONIA CNPJ 84112481001008",
+    "consultor": "Wilson Rufino",
+    "situacao": "open"
+  },
+  {
+    "nome": "Veirano & Advogados Associados",
+    "cnpj_norm": "27819937000140",
+    "nome_norm": "VEIRANO ADVOGADOS ASSOCIADOS",
+    "consultor": "Wilson Rufino",
+    "situacao": "open"
+  },
+  {
+    "nome": "Postalis Instituto De Previdência Complementar",
+    "cnpj_norm": "00627638000157",
+    "nome_norm": "POSTALIS INSTITUTO DE PREVIDENCIA COMPLEMENTAR",
+    "consultor": "Marina Pinesi",
+    "situacao": "visit"
+  },
+  {
+    "nome": "Ingoh - Instituto Goiano De Oncologia E Hematologia",
+    "cnpj_norm": "01277573000120",
+    "nome_norm": "INGOH INSTITUTO GOIANO DE ONCOLOGIA E HEMATOLOGIA",
+    "consultor": "Marina Pinesi",
+    "situacao": "in_negotiation"
+  },
+  {
+    "nome": "Country Clube De Goiás",
+    "cnpj_norm": "01613058000173",
+    "nome_norm": "COUNTRY CLUBE DE GOIAS",
+    "consultor": "Wilson Rufino",
+    "situacao": "open"
+  },
+  {
+    "nome": "Confederacao Sicredi",
+    "cnpj_norm": "03795072000160",
+    "nome_norm": "CONFEDERACAO SICREDI",
+    "consultor": "Dalton Gorauskas",
+    "situacao": "lost"
+  },
+  {
+    "nome": "Genom União Química Farmacêutica Nacional S/A",
+    "cnpj_norm": "60665981000118",
+    "nome_norm": "GENOM UNIAO QUIMICA FARMACEUTICA NACIONAL S A",
+    "consultor": "Dalton Gorauskas",
+    "situacao": "visit"
+  },
+  {
+    "nome": "Associação do Residencial Real Park Arujá",
+    "cnpj_norm": "15469077000182",
+    "nome_norm": "ASSOCIACAO DO RESIDENCIAL REAL PARK ARUJA",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Associação Brasileira de Educação e Cultura",
+    "cnpj_norm": "60982352000200",
+    "nome_norm": "ASSOCIACAO BRASILEIRA DE EDUCACAO E CULTURA",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Instituto Jo Clemente Associacao de Pais e Amigos dos Excepcionais",
+    "cnpj_norm": "60502242000105",
+    "nome_norm": "INSTITUTO JO CLEMENTE ASSOCIACAO DE PAIS E AMIGOS DOS EXCEPCIONAIS",
+    "consultor": "Abigail Alberti",
+    "situacao": "won"
+  },
+  {
+    "nome": "Instituto Hermes Pardini S/A",
+    "cnpj_norm": "19378769000176",
+    "nome_norm": "INSTITUTO HERMES PARDINI S A",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Esporte Clube Bahia",
+    "cnpj_norm": "15193923000184",
+    "nome_norm": "ESPORTE CLUBE BAHIA",
+    "consultor": "Thalita Avila",
+    "situacao": "open"
+  },
+  {
+    "nome": "Nelson Paschoalotto Advogados Associados",
+    "cnpj_norm": "04578876000170",
+    "nome_norm": "NELSON PASCHOALOTTO ADVOGADOS ASSOCIADOS",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Instituto Brasileiro de Governanca Corporativa (IBGC)",
+    "cnpj_norm": "01082331000180",
+    "nome_norm": "INSTITUTO BRASILEIRO DE GOVERNANCA CORPORATIVA IBGC",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Instituto Paulista de Estudos e Pesquisas em Oftalmologia - Ipepo",
+    "cnpj_norm": "67187070000171",
+    "nome_norm": "INSTITUTO PAULISTA DE ESTUDOS E PESQUISAS EM OFTALMOLOGIA IPEPO",
+    "consultor": "Fernando Aguiar",
+    "situacao": "study"
+  },
+  {
+    "nome": "Instituto 42",
+    "cnpj_norm": "32407020000178",
+    "nome_norm": "INSTITUTO 42",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Instituto 42",
+    "cnpj_norm": "32407020000178",
+    "nome_norm": "INSTITUTO 42",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Instituto 42",
+    "cnpj_norm": "32407020000178",
+    "nome_norm": "INSTITUTO 42",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Galloro & Associados Auditores Independentes S/S",
+    "cnpj_norm": "47204755000171",
+    "nome_norm": "GALLORO ASSOCIADOS AUDITORES INDEPENDENTES S S",
+    "consultor": "Paola Fernandes",
+    "situacao": "open"
+  },
+  {
+    "nome": "Instituto Paulista de Estudos e Pesquisas em Oftalmologia - Ipepo",
+    "cnpj_norm": "67187070000171",
+    "nome_norm": "INSTITUTO PAULISTA DE ESTUDOS E PESQUISAS EM OFTALMOLOGIA IPEPO",
+    "consultor": "Fernando Aguiar",
+    "situacao": "open"
+  },
+  {
+    "nome": "Vamos Mais Associação de Bnenficios Mutuos",
+    "cnpj_norm": "31034398000100",
+    "nome_norm": "VAMOS MAIS ASSOCIACAO DE BNENFICIOS MUTUOS",
+    "consultor": "Suelen Pereira",
+    "situacao": "won"
+  },
+  {
+    "nome": "ABIMAQ Associação Brasileira da Ind de Maquinas e Equipamentos",
+    "cnpj_norm": "46390209000371",
+    "nome_norm": "ABIMAQ ASSOCIACAO BRASILEIRA DA IND DE MAQUINAS E EQUIPAMENTOS",
+    "consultor": null,
+    "situacao": "open"
+  },
+  {
+    "nome": "Barroso Fontelles, Barcellos, Mendonca & Associados - Escritorio De Advocacia",
+    "cnpj_norm": "39093331000159",
+    "nome_norm": "BARROSO FONTELLES BARCELLOS MENDONCA ASSOCIADOS ESCRITORIO DE ADVOCACIA",
+    "consultor": "Mario Correa",
+    "situacao": "study"
+  },
+  {
+    "nome": "Heal - Instituto Assistencial Espirita Andre Luiz",
+    "cnpj_norm": "17308883000102",
+    "nome_norm": "HEAL INSTITUTO ASSISTENCIAL ESPIRITA ANDRE LUIZ",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Instituto Paulista De Ginecologia E Obstetricia Ltda.",
+    "cnpj_norm": "60522042000114",
+    "nome_norm": "INSTITUTO PAULISTA DE GINECOLOGIA E OBSTETRICIA LTDA",
+    "consultor": "Leandro Peralta",
+    "situacao": "lost"
+  },
+  {
+    "nome": "Associação Escola Superior de Propaganda e Marketing",
+    "cnpj_norm": "61825675000164",
+    "nome_norm": "ASSOCIACAO ESCOLA SUPERIOR DE PROPAGANDA E MARKETING",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "TRANSPORTADORA NOVA UNIAO LTDA",
+    "cnpj_norm": "02400001000159",
+    "nome_norm": "TRANSPORTADORA NOVA UNIAO LTDA",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Associação fundo de incentivo a pesquisa",
+    "cnpj_norm": "47673793000416",
+    "nome_norm": "ASSOCIACAO FUNDO DE INCENTIVO A PESQUISA",
+    "consultor": "Marcelo Natal",
+    "situacao": "lost"
+  },
+  {
+    "nome": "Galloro & Associados - Gestao Contabilidade E Controle Empresarial Sociedade Simples",
+    "cnpj_norm": "03049776000194",
+    "nome_norm": "GALLORO ASSOCIADOS GESTAO CONTABILIDADE E CONTROLE EMPRESARIAL SOCIEDADE SIMPLES",
+    "consultor": "Suelen Pereira",
+    "situacao": "lost"
+  },
+  {
+    "nome": "Galloro & Associados",
+    "cnpj_norm": "",
+    "nome_norm": "GALLORO ASSOCIADOS",
+    "consultor": "Suelen Pereira",
+    "situacao": "lost"
+  },
+  {
+    "nome": "Instituto Educacional Vale Do Paraiba Ltda",
+    "cnpj_norm": "09395438000190",
+    "nome_norm": "INSTITUTO EDUCACIONAL VALE DO PARAIBA LTDA",
+    "consultor": "Marcelo Natal",
+    "situacao": "won"
+  },
+  {
+    "nome": "Instituto de Pesquisas Tecnológicas -IPT",
+    "cnpj_norm": "60633674000155",
+    "nome_norm": "INSTITUTO DE PESQUISAS TECNOLOGICAS IPT",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Insper Instituto de pesquisa e ensino",
+    "cnpj_norm": "06070152000147",
+    "nome_norm": "INSPER INSTITUTO DE PESQUISA E ENSINO",
+    "consultor": "Leticia Santana",
+    "situacao": "visit"
+  },
+  {
+    "nome": "Associacao das Abelhinhas de Santa Rita de Cassia",
+    "cnpj_norm": "76606847000186",
+    "nome_norm": "ASSOCIACAO DAS ABELHINHAS DE SANTA RITA DE CASSIA",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Associacao De Cultura, Educacao E Assistencia Social Santa Marcelina",
+    "cnpj_norm": "10462524000158",
+    "nome_norm": "ASSOCIACAO DE CULTURA EDUCACAO E ASSISTENCIA SOCIAL SANTA MARCELINA",
+    "consultor": "Taylane Siqueira",
+    "situacao": "study"
+  },
+  {
+    "nome": "Associação do sanatorio sírio",
+    "cnpj_norm": "60453024000390",
+    "nome_norm": "ASSOCIACAO DO SANATORIO SIRIO",
+    "consultor": "Maria Marcela Oliveira",
+    "situacao": "visit"
+  },
+  {
+    "nome": "Instituto educacional joaquim nabuco",
+    "cnpj_norm": "05307629000100",
+    "nome_norm": "INSTITUTO EDUCACIONAL JOAQUIM NABUCO",
+    "consultor": "Marcelo Natal",
+    "situacao": "won"
+  },
+  {
+    "nome": "Sindicato dos Lojistas do Comercio de Porto Alegre",
+    "cnpj_norm": "92966316000150",
+    "nome_norm": "SINDICATO DOS LOJISTAS DO COMERCIO DE PORTO ALEGRE",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Teixeira Fortes Advogados Associados",
+    "cnpj_norm": "00869226000123",
+    "nome_norm": "TEIXEIRA FORTES ADVOGADOS ASSOCIADOS",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Instituto Antonio Royo Marin",
+    "cnpj_norm": "34266466000155",
+    "nome_norm": "INSTITUTO ANTONIO ROYO MARIN",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Clube Hipico de Santo Amaro",
+    "cnpj_norm": "49086291000171",
+    "nome_norm": "CLUBE HIPICO DE SANTO AMARO",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Athié Wohnrath Associados Projetos Construção e Gerenciamento Ltda.",
+    "cnpj_norm": "61379863000106",
+    "nome_norm": "ATHIE WOHNRATH ASSOCIADOS PROJETOS CONSTRUCAO E GERENCIAMENTO LTDA",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Associação Brasileira de Normas Tecnicas - ABNT",
+    "cnpj_norm": "33402892000106",
+    "nome_norm": "ASSOCIACAO BRASILEIRA DE NORMAS TECNICAS ABNT",
+    "consultor": "Valeria Martinez",
+    "situacao": "visit"
+  },
+  {
+    "nome": "Barral Mj Consultores Associados Ltda",
+    "cnpj_norm": "03953995000101",
+    "nome_norm": "BARRAL MJ CONSULTORES ASSOCIADOS LTDA",
+    "consultor": "Mario Correa",
+    "situacao": "open"
+  },
+  {
+    "nome": "Barral Mj Consultores Associados Ltda",
+    "cnpj_norm": "03953995000101",
+    "nome_norm": "BARRAL MJ CONSULTORES ASSOCIADOS LTDA",
+    "consultor": "Mario Correa",
+    "situacao": "open"
+  },
+  {
+    "nome": "Barral Mj Consultores Associados Ltda",
+    "cnpj_norm": "03953995000101",
+    "nome_norm": "BARRAL MJ CONSULTORES ASSOCIADOS LTDA",
+    "consultor": "Mario Correa",
+    "situacao": "open"
+  },
+  {
+    "nome": "Barral Mj Consultores Associados Ltda",
+    "cnpj_norm": "03953995000101",
+    "nome_norm": "BARRAL MJ CONSULTORES ASSOCIADOS LTDA",
+    "consultor": "Mario Correa",
+    "situacao": "open"
+  },
+  {
+    "nome": "Federacao Das Industrias Do Estado Do Rio De Janeiro",
+    "cnpj_norm": "42422212000107",
+    "nome_norm": "FEDERACAO DAS INDUSTRIAS DO ESTADO DO RIO DE JANEIRO",
+    "consultor": "Priscila Reis",
+    "situacao": "visit"
+  },
+  {
+    "nome": "Instituto de Pesquisa Ambiental da Amazonia",
+    "cnpj_norm": "00627727000101",
+    "nome_norm": "INSTITUTO DE PESQUISA AMBIENTAL DA AMAZONIA",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Instituto de Pesquisa Ambiental da Amazonia",
+    "cnpj_norm": "00627727000101",
+    "nome_norm": "INSTITUTO DE PESQUISA AMBIENTAL DA AMAZONIA",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Instituto de Pesquisa Ambiental da Amazonia",
+    "cnpj_norm": "00627727000101",
+    "nome_norm": "INSTITUTO DE PESQUISA AMBIENTAL DA AMAZONIA",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Instituto de Pesquisa Ambiental da Amazonia",
+    "cnpj_norm": "00627727000101",
+    "nome_norm": "INSTITUTO DE PESQUISA AMBIENTAL DA AMAZONIA",
+    "consultor": "Dalton Gorauskas",
+    "situacao": "open"
+  },
+  {
+    "nome": "Instituto de Pesquisa Ambiental da Amazonia",
+    "cnpj_norm": "00627727000365",
+    "nome_norm": "INSTITUTO DE PESQUISA AMBIENTAL DA AMAZONIA",
+    "consultor": "Dalton Gorauskas",
+    "situacao": "lost"
+  },
+  {
+    "nome": "Associação de Proteção a Maternidade a Infância e a Adolescência",
+    "cnpj_norm": "73062325000172",
+    "nome_norm": "ASSOCIACAO DE PROTECAO A MATERNIDADE A INFANCIA E A ADOLESCENCIA",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Clinica de Cirurgia Plástica Sorrentino e Associados S/A Ltda",
+    "cnpj_norm": "10334646000169",
+    "nome_norm": "CLINICA DE CIRURGIA PLASTICA SORRENTINO E ASSOCIADOS S A LTDA",
+    "consultor": "Thamires Rosa",
+    "situacao": "lost"
+  },
+  {
+    "nome": "Galloro & Associados - Gestao Contabilidade E Controle Empresarial Sociedade Simples",
+    "cnpj_norm": "03049776000194",
+    "nome_norm": "GALLORO ASSOCIADOS GESTAO CONTABILIDADE E CONTROLE EMPRESARIAL SOCIEDADE SIMPLES",
+    "consultor": "Gisleide Santos",
+    "situacao": "won"
+  },
+  {
+    "nome": "Galloro & Associados Auditores Independentes S/S",
+    "cnpj_norm": "47204755000171",
+    "nome_norm": "GALLORO ASSOCIADOS AUDITORES INDEPENDENTES S S",
+    "consultor": "Gisleide Santos",
+    "situacao": "won"
+  },
+  {
+    "nome": "Instituto Paulista de Estudos e Pesquisas em Oftalmologia - Ipepo",
+    "cnpj_norm": "67187070000171",
+    "nome_norm": "INSTITUTO PAULISTA DE ESTUDOS E PESQUISAS EM OFTALMOLOGIA IPEPO",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Instituto de Pesquisa Ambiental da Amazonia",
+    "cnpj_norm": "00627727000101",
+    "nome_norm": "INSTITUTO DE PESQUISA AMBIENTAL DA AMAZONIA",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Instituto de Pesquisa Ambiental da Amazonia",
+    "cnpj_norm": "00627727000101",
+    "nome_norm": "INSTITUTO DE PESQUISA AMBIENTAL DA AMAZONIA",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Clube de Tiro Base Armalite Ltda.",
+    "cnpj_norm": "28684692000153",
+    "nome_norm": "CLUBE DE TIRO BASE ARMALITE LTDA",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Associação Evangelizar é Preciso",
+    "cnpj_norm": "07634465000143",
+    "nome_norm": "ASSOCIACAO EVANGELIZAR E PRECISO",
+    "consultor": "Mario Correa",
+    "situacao": "visit"
+  },
+  {
+    "nome": "Instituto de Pesquisa Ambiental da Amazonia",
+    "cnpj_norm": "00627727000101",
+    "nome_norm": "INSTITUTO DE PESQUISA AMBIENTAL DA AMAZONIA",
+    "consultor": "Thalita Avila",
+    "situacao": "won"
+  },
+  {
+    "nome": "Instituto de Pesquisa Ambiental da Amazonia",
+    "cnpj_norm": "00627727000101",
+    "nome_norm": "INSTITUTO DE PESQUISA AMBIENTAL DA AMAZONIA",
+    "consultor": "Thalita Avila",
+    "situacao": "won"
+  },
+  {
+    "nome": "Instituto de Pesquisa Ambiental da Amazonia",
+    "cnpj_norm": "00627727000101",
+    "nome_norm": "INSTITUTO DE PESQUISA AMBIENTAL DA AMAZONIA",
+    "consultor": "Thalita Avila",
+    "situacao": "won"
+  },
+  {
+    "nome": "Instituto de Pesquisa Ambiental da Amazonia",
+    "cnpj_norm": "00627727000101",
+    "nome_norm": "INSTITUTO DE PESQUISA AMBIENTAL DA AMAZONIA",
+    "consultor": "Thalita Avila",
+    "situacao": "won"
+  },
+  {
+    "nome": "Instituto de Pesquisa Ambiental da Amazonia",
+    "cnpj_norm": "00627727000101",
+    "nome_norm": "INSTITUTO DE PESQUISA AMBIENTAL DA AMAZONIA",
+    "consultor": "Thalita Avila",
+    "situacao": "won"
+  },
+  {
+    "nome": "Instituto de Pesquisa Ambiental da Amazonia",
+    "cnpj_norm": "00627727000101",
+    "nome_norm": "INSTITUTO DE PESQUISA AMBIENTAL DA AMAZONIA",
+    "consultor": "Thalita Avila",
+    "situacao": "won"
+  },
+  {
+    "nome": "Associação Evangélica Beneficente Espírito-Santense",
+    "cnpj_norm": "28127926000161",
+    "nome_norm": "ASSOCIACAO EVANGELICA BENEFICENTE ESPIRITO SANTENSE",
+    "consultor": "Nathalia Ferrite",
+    "situacao": "open"
+  },
+  {
+    "nome": "Associação de Educação e Beneficência Santa Catarina De Sena",
+    "cnpj_norm": "62047071000105",
+    "nome_norm": "ASSOCIACAO DE EDUCACAO E BENEFICENCIA SANTA CATARINA DE SENA",
+    "consultor": "Marcelo Natal",
+    "situacao": "lost"
+  },
+  {
+    "nome": "Ibfc - Instituto Brasileiro De Formacao E Capacitacao",
+    "cnpj_norm": "09211443000104",
+    "nome_norm": "IBFC INSTITUTO BRASILEIRO DE FORMACAO E CAPACITACAO",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Associacao De Cultura, Educacao E Assistencia Social Santa Marcelina",
+    "cnpj_norm": "10462524000158",
+    "nome_norm": "ASSOCIACAO DE CULTURA EDUCACAO E ASSISTENCIA SOCIAL SANTA MARCELINA",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Ggp Associados & Consultoria Contábil S/S",
+    "cnpj_norm": "14598892000189",
+    "nome_norm": "GGP ASSOCIADOS CONSULTORIA CONTABIL S S",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Rra associação educacional",
+    "cnpj_norm": "38347923000197",
+    "nome_norm": "RRA ASSOCIACAO EDUCACIONAL",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Associação Projov",
+    "cnpj_norm": "51244390000348",
+    "nome_norm": "ASSOCIACAO PROJOV",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Federação das Indústrias do Estado de São Paulo",
+    "cnpj_norm": "62225933000134",
+    "nome_norm": "FEDERACAO DAS INDUSTRIAS DO ESTADO DE SAO PAULO",
+    "consultor": "Abigail Alberti",
+    "situacao": "won"
+  },
+  {
+    "nome": "Associação Brasileira de Supermercados",
+    "cnpj_norm": "62360268000191",
+    "nome_norm": "ASSOCIACAO BRASILEIRA DE SUPERMERCADOS",
+    "consultor": "Patricia Monteiro Trindade",
+    "situacao": "lost"
+  },
+  {
+    "nome": "Associacao De Poupanca E Emprestimo Poupex",
+    "cnpj_norm": "00655522000121",
+    "nome_norm": "ASSOCIACAO DE POUPANCA E EMPRESTIMO POUPEX",
+    "consultor": "Wilson Rufino",
+    "situacao": "open"
+  },
+  {
+    "nome": "Associacao Brasileira De Medicna De Trafego",
+    "cnpj_norm": "47333208000196",
+    "nome_norm": "ASSOCIACAO BRASILEIRA DE MEDICNA DE TRAFEGO",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Associação de Assistência a Criança Deficiente -AACD",
+    "cnpj_norm": "60979457000111",
+    "nome_norm": "ASSOCIACAO DE ASSISTENCIA A CRIANCA DEFICIENTE AACD",
+    "consultor": null,
+    "situacao": "open"
+  },
+  {
+    "nome": "Instituto Hermes Pardini S/A",
+    "cnpj_norm": "19378769000176",
+    "nome_norm": "INSTITUTO HERMES PARDINI S A",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Instituto de Pesquisas Tecnológicas -IPT",
+    "cnpj_norm": "60633674000155",
+    "nome_norm": "INSTITUTO DE PESQUISAS TECNOLOGICAS IPT",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Instituto Alana",
+    "cnpj_norm": "05263071000109",
+    "nome_norm": "INSTITUTO ALANA",
+    "consultor": "Suelen Pereira",
+    "situacao": "visit"
+  },
+  {
+    "nome": "Associacao P De Bibliotecas E Leitura",
+    "cnpj_norm": "12480948000170",
+    "nome_norm": "ASSOCIACAO P DE BIBLIOTECAS E LEITURA",
+    "consultor": "Nathalia Ferrite",
+    "situacao": "open"
+  },
+  {
+    "nome": "Aneas - Associação Nobrega de Educação e Assistência Social",
+    "cnpj_norm": "33544370000149",
+    "nome_norm": "ANEAS ASSOCIACAO NOBREGA DE EDUCACAO E ASSISTENCIA SOCIAL",
+    "consultor": "Marcelo Natal",
+    "situacao": "lost"
+  },
+  {
+    "nome": "Aneas - Associação Nobrega de Educação e Assistência Social",
+    "cnpj_norm": "33544370000149",
+    "nome_norm": "ANEAS ASSOCIACAO NOBREGA DE EDUCACAO E ASSISTENCIA SOCIAL",
+    "consultor": "Marcelo Natal",
+    "situacao": "lost"
+  },
+  {
+    "nome": "Aneas - Associação Nobrega de Educação e Assistência Social",
+    "cnpj_norm": "33544370000149",
+    "nome_norm": "ANEAS ASSOCIACAO NOBREGA DE EDUCACAO E ASSISTENCIA SOCIAL",
+    "consultor": "Marcelo Natal",
+    "situacao": "lost"
+  },
+  {
+    "nome": "Aneas - Associação Nobrega de Educação e Assistência Social",
+    "cnpj_norm": "33544370000149",
+    "nome_norm": "ANEAS ASSOCIACAO NOBREGA DE EDUCACAO E ASSISTENCIA SOCIAL",
+    "consultor": "Marcelo Natal",
+    "situacao": "lost"
+  },
+  {
+    "nome": "Aneas - Associação Nobrega de Educação e Assistência Social",
+    "cnpj_norm": "33544370000149",
+    "nome_norm": "ANEAS ASSOCIACAO NOBREGA DE EDUCACAO E ASSISTENCIA SOCIAL",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Instituto de Pesquisas Tecnológicas -IPT",
+    "cnpj_norm": "60633674000155",
+    "nome_norm": "INSTITUTO DE PESQUISAS TECNOLOGICAS IPT",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "ABCP - Associação Brasileira de Cimento Portland",
+    "cnpj_norm": "60950433000130",
+    "nome_norm": "ABCP ASSOCIACAO BRASILEIRA DE CIMENTO PORTLAND",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Fundacao Instituto Educacional Dona Michie Akama",
+    "cnpj_norm": "52807633000100",
+    "nome_norm": "FUNDACAO INSTITUTO EDUCACIONAL DONA MICHIE AKAMA",
+    "consultor": "Marcelo Natal",
+    "situacao": "lost"
+  },
+  {
+    "nome": "Associação Cultura Inglesa",
+    "cnpj_norm": "61793907000140",
+    "nome_norm": "ASSOCIACAO CULTURA INGLESA",
+    "consultor": "Leandro Peralta",
+    "situacao": "open"
+  },
+  {
+    "nome": "Instituto de Pesquisas Tecnológicas -IPT",
+    "cnpj_norm": "60633674000155",
+    "nome_norm": "INSTITUTO DE PESQUISAS TECNOLOGICAS IPT",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "Aneas - Associação Nobrega de Educação e Assistência Social",
+    "cnpj_norm": "33544370000149",
+    "nome_norm": "ANEAS ASSOCIACAO NOBREGA DE EDUCACAO E ASSISTENCIA SOCIAL",
+    "consultor": null,
+    "situacao": "lost"
+  },
+  {
+    "nome": "União de Estados Consultoria e Treinamento Empresarial Ltda.",
+    "cnpj_norm": "34927410000102",
+    "nome_norm": "UNIAO DE ESTADOS CONSULTORIA E TREINAMENTO EMPRESARIAL LTDA",
+    "consultor": "Suelen Pereira",
+    "situacao": "won"
+  },
+  {
+    "nome": "Instituto Dom Bosco",
+    "cnpj_norm": "60802154000129",
+    "nome_norm": "INSTITUTO DOM BOSCO",
+    "consultor": "Renata Matavelli",
+    "situacao": "visit"
+  },
+  {
+    "nome": "Associação dos Lojistas dos Shopping Center Fiesta",
+    "cnpj_norm": "01086380000191",
+    "nome_norm": "ASSOCIACAO DOS LOJISTAS DOS SHOPPING CENTER FIESTA",
+    "consultor": "Gisleide Santos",
+    "situacao": "lost"
+  },
+  {
+    "nome": "Instituto Jo Clemente Associacao de Pais e Amigos dos Excepcionais",
+    "cnpj_norm": "60502242000105",
+    "nome_norm": "INSTITUTO JO CLEMENTE ASSOCIACAO DE PAIS E AMIGOS DOS EXCEPCIONAIS",
+    "consultor": "Gisleide Santos",
+    "situacao": "won"
+  }
+]

@@ -1,0 +1,18 @@
+Associação Nacional dos Aposentados dos Correios | visto em universo_categoria4.jsonl, mantido de universo_categoria1.jsonl
+Associação dos Eletricitários Aposentados e Pensionistas da Cemig e Subsidiárias | visto em universo_categoria4.jsonl, mantido de universo_categoria1.jsonl
+Associação dos Aposentados e Funcionários do Banco do Brasil | visto em universo_categoria4.jsonl, mantido de universo_categoria1.jsonl
+Associação do Pessoal da Caixa Econômica Federal de Minas Gerais | visto em universo_categoria4.jsonl, mantido de universo_categoria1.jsonl
+Associação dos Engenheiros da Petrobrás | visto em universo_categoria4.jsonl, mantido de universo_categoria1.jsonl
+Associação Nacional de Empregados e Ex-empregados das Empresas do Sistema Petrobras e Sucessoras, Participantes e Assistidos da Petros | visto em universo_categoria4.jsonl, mantido de universo_categoria1.jsonl
+Associação Nacional dos Aposentados e Pensionistas | visto em universo_categoria4.jsonl, mantido de universo_categoria4.jsonl
+Automóvel Clube Brasileiro | visto em universo_categoria6.jsonl, mantido de universo_categoria5.jsonl
+Associação dos Aposentados e Pensionistas Nacional (ex-Associação Brasileira dos Servidores Públicos) | visto em universo_transversal.jsonl, mantido de universo_categoria4.jsonl
+União Nacional de Aposentados e Pensionistas Brasileiros | visto em universo_transversal.jsonl, mantido de universo_categoria4.jsonl
+União Nacional de Auxílio aos Servidores Públicos | visto em universo_transversal.jsonl, mantido de universo_categoria4.jsonl
+Confederação Brasileira de Aposentados, Pensionistas e Idosos | visto em universo_transversal.jsonl, mantido de universo_categoria4.jsonl
+Sindicato Nacional dos Aposentados, Pensionistas e Idosos da Força Sindical | visto em universo_transversal.jsonl, mantido de universo_categoria4.jsonl
+Associação de Assistência Social a Pensionistas e Aposentados | visto em universo_transversal.jsonl, mantido de universo_categoria4.jsonl
+Associação dos Aposentados Mutualistas para Benefícios Coletivos | visto em universo_transversal.jsonl, mantido de universo_categoria4.jsonl
+Associação dos Aposentados e Funcionários do Banco do Brasil | visto em universo_transversal.jsonl, mantido de universo_categoria1.jsonl
+Associação Nacional de Aposentados e Pensionistas do Brasil | visto em universo_transversal.jsonl, mantido de universo_categoria4.jsonl
+APVS Brasil - Associação de Proteção Veicular | visto em universo_transversal.jsonl, mantido de universo_categoria6.jsonl
